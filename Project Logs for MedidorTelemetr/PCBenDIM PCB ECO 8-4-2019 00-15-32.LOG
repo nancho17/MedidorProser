@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetP1_1 Pin=P1-1
+Removed Pin From Net: NetName=NetP1_2 Pin=P1-2
+Removed Pin From Net: NetName=SAL3 Pin=P1-3
+Removed Pin From Net: NetName=SAL4 Pin=P1-4
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-2
+Added Pin To Net: NetName=SAL3 Pin=P1-3
+Added Pin To Net: NetName=SAL4 Pin=P1-4
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=P3-3
+Added Pin To Net: NetName=NetP3_2 Pin=P3-4
+Added Net: Name=NetP3_2

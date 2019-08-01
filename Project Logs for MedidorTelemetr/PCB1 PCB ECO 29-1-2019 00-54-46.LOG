@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=Jtag Member=P88
+Added Component: Designator=P222(HDR2X7H)
+Added Member To Class: ClassName=Jtag Member=Component P222 Header 7X2H

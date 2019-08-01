@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=D67-1
+Removed Pin From Net: NetName=GND Pin=D67-2
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=D67

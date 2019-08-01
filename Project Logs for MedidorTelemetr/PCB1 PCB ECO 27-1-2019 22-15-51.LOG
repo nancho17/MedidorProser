@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=U1-1
+Removed Pin From Net: NetName=GND Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-4
+Removed Pin From Net: NetName=VCCIN Pin=U1-5
+Removed Pin From Net: NetName=NetD1_2 Pin=U1-7
+Change Component Footprint: Designator=U1 Old Footprint=626-05 New Footprint=SOIC127P1033X264-14N
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=MHDR1X4
+Added Pin To Net: NetName=5V Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=VCCIN Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=NetD1_2 Pin=U1-12

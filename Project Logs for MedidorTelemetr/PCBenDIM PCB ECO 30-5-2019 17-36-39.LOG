@@ -1,0 +1,6 @@
+Added Component: Designator=Rel1(Rele_Fujtsu)
+Added Pin To Net: NetName=V5 Pin=Rel1-1
+Added Pin To Net: NetName=NetP2_3 Pin=Rel1-4
+Added Pin To Net: NetName=NetP2_4 Pin=Rel1-5
+Added Pin To Net: NetName=NetQ3_1 Pin=Rel1-12
+Added Member To Class: ClassName=comms Member=Component Rel1 Fujitsu Rele

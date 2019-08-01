@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=DCIN3 New Net Name=GND_MICRO
+Change Net Name : Old Net Name=DCIN4 New Net Name=VCC_MICRO
+Change Net Name : Old Net Name=NetP3_1 New Net Name=MAX_Y
+Change Net Name : Old Net Name=NetP3_2 New Net Name=MAX_Z
+Change Net Name : Old Net Name=NetP3_3 New Net Name=MAX_B
+Change Net Name : Old Net Name=NetP3_4 New Net Name=MAX_A

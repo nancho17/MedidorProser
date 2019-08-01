@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MISO_RX Pin=U3-56
+Removed Pin From Net: NetName=NetU3_32 Pin=U5-6
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Added Pin To Net: NetName=MICRO_TMS_1 Pin=U3-56
+Added Pin To Net: NetName=NetU3_32 Pin=U5-4
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetP3_1
+Change Net Name : Old Net Name=NetP3_1 New Net Name=NetP1_1
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetP1_2
+Added Pin To Net: NetName=NetU5_6 Pin=U5-6
+Added Net: Name=NetU5_6

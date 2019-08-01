@@ -1,0 +1,81 @@
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(1608[0603])
+Added Component: Designator=C?(C1206)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C1206)
+Added Component: Designator=C?(C0805)
+Added Component: Designator=C?(C1206)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=C?(RAD-0.3)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=R?(J1-0603)
+Added Component: Designator=U4(*LFCSP28_ADE7953(Primary))
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=GND Pin=R?-2
+Added Pin To Net: NetName=GND Pin=U4-EXP
+Added Pin To Net: NetName=NetC?_1 Pin=C?-1
+Added Pin To Net: NetName=NetC?_1 Pin=C?-2
+Added Pin To Net: NetName=NetC?_1 Pin=R?-2
+Added Net: Name=NetC?_1
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=R?-1
+Added Pin To Net: NetName=NetC?_2 Pin=U4-9
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U4-3
+Added Net: Name=NetR?_1
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Pin To Net: NetName=NetR?_2 Pin=R?-2
+Added Net: Name=NetR?_2
+Added Pin To Net: NetName=NetU4_4 Pin=U4-4
+Added Pin To Net: NetName=NetU4_4 Pin=U4-16
+Added Net: Name=NetU4_4
+Added Pin To Net: NetName=V3V3 Pin=C?-2
+Added Pin To Net: NetName=V3V3 Pin=R?-2
+Added Pin To Net: NetName=V3V3 Pin=U4-7
+Added Pin To Net: NetName=V3V3 Pin=U4-8
+Added Pin To Net: NetName=V3V3 Pin=U4-17
+Added Net: Name=V3V3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap Pol3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap Pol3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C? Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R? Res3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component U4 ADE7953

@@ -1,0 +1,10 @@
+Output: Verilog File
+Type  : Verilog
+From  : Project [MedidorTelemetr.PrjPcb]
+   Generated File[comms.V]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 20:15:32 On 25/6/2019

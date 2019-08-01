@@ -1,0 +1,64 @@
+Protel Design System Design Rule Check
+PCB File : C:\Proyects\Diseños en Altium\MedidorServaind\PCB1.PcbDoc
+Date     : 27/1/2019
+Time     : 23:08:08
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad L1-1(78.354mm,43.18mm) on Top Layer And Pad U1-3(81.153mm,51.011mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net 5V Between Pad U1-3(81.153mm,51.011mm) on Top Layer And Pad C2-2(102.315mm,51.689mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-4(82.423mm,51.011mm) on Top Layer And Pad U1-5(83.693mm,51.011mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-5(83.693mm,51.011mm) on Top Layer And Pad U1-6(84.963mm,51.011mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D1-1(74.93mm,54.265mm) on Top Layer And Pad U1-4(82.423mm,51.011mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-6(84.963mm,51.011mm) on Top Layer And Pad C2-1(99.615mm,51.689mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C1-1(83.312mm,67.517mm) on Top Layer And Pad U1-5(83.693mm,51.011mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-1(99.615mm,51.689mm) on Top Layer And Pad P1-1(104.775mm,64.77mm) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_2 Between Pad D1-2(74.93mm,58.765mm) on Top Layer And Pad U1-12(81.153mm,60.241mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetD1_2 Between Pad L1-2(74.554mm,43.18mm) on Top Layer And Pad D1-2(74.93mm,58.765mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCCIN Between Pad C1-2(83.312mm,64.817mm) on Top Layer And Pad U1-10(83.693mm,60.241mm) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net VCCIN Between Pad C1-2(83.312mm,64.817mm) on Top Layer And Pad P1-4(89.775mm,64.77mm) on Multi-Layer 
+Rule Violations :12
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Room Hoja1 (Bounding Region = (62.23mm, 19.685mm, 107.188mm, 78.359mm) (InComponentClass('Hoja1'))
+   Violation between Room Definition: Between SIP Component P2-Header 4 (105.41mm,35.052mm) on Top Layer And Room Hoja1 (Bounding Region = (62.23mm, 19.685mm, 107.188mm, 78.359mm) (InComponentClass('Hoja1')) 
+   Violation between Room Definition: Between SIP Component P4-Header 4 (88.011mm,22.86mm) on Top Layer And Room Hoja1 (Bounding Region = (62.23mm, 19.685mm, 107.188mm, 78.359mm) (InComponentClass('Hoja1')) 
+Rule Violations :2
+
+
+Violations Detected : 14
+Time Elapsed        : 00:00:02

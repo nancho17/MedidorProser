@@ -1,0 +1,108 @@
+Removed Pin From Net: NetName=ISL_B Pin=P3-1
+Removed Pin From Net: NetName=ISL_A Pin=P3-2
+Removed Pin From Net: NetName=AVSS Pin=Q3-3
+Removed Pin From Net: NetName=V5 Pin=Rel1-1
+Removed Pin From Net: NetName=NetQ3_1 Pin=Rel1-12
+Removed Pin From Net: NetName=REF Pin=U3-10
+Removed Pin From Net: NetName=NetQ3_2 Pin=U3-29
+Change Component DesignItemId : Designator=Q3 Old DesignItemId=MOSFET-N New DesignItemId=MOSFET-P
+Change Component Comment : Designator=D2 Old Comment=Bridge1 New Comment=MB2SCT-ND
+Change Component Comment : Designator=Q3 Old Comment=MOSFET-N New Comment=MOSFET-P
+Change Component Description : Designator=Rel1 Old Description= New Description=FBR12ND-05
+Change Component Description : Designator=F1 Old Description=Fuse New Description=SMD030-2CT-ND
+Change Component Description : Designator=Q3 Old Description=N-Channel MOSFET New Description=IRF7240
+Added Component: Designator=C28(C0805)
+Added Component: Designator=C29(C0805)
+Added Component: Designator=C30(C0805)
+Added Component: Designator=C31(C0805)
+Added Component: Designator=C32(C0805)
+Added Component: Designator=R17(J1-0603)
+Added Component: Designator=R18(J1-0603)
+Added Component: Designator=R19(J1-0603)
+Added Component: Designator=U9(SSOP20_N)
+Added Component: Designator=U10(SOT23_M)
+Added Pin To Net: NetName=SCLK Pin=C6-2
+Added Pin To Net: NetName=SCLK Pin=C7-1
+Added Pin To Net: NetName=SCLK Pin=C11-2
+Added Pin To Net: NetName=SCLK Pin=C12-1
+Added Pin To Net: NetName=SCLK Pin=C15-1
+Added Pin To Net: NetName=SCLK Pin=C18-2
+Added Pin To Net: NetName=SCLK Pin=C19-1
+Added Pin To Net: NetName=SCLK Pin=C20-2
+Added Pin To Net: NetName=REF Pin=C29-1
+Added Pin To Net: NetName=AVSS Pin=C29-2
+Added Pin To Net: NetName=AVSS Pin=C31-2
+Added Pin To Net: NetName=AVSS Pin=C32-2
+Added Pin To Net: NetName=ISL_B Pin=P3-3
+Added Pin To Net: NetName=ISL_A Pin=P3-4
+Added Pin To Net: NetName=SCLK Pin=P4-3
+Added Pin To Net: NetName=REF Pin=Q3-3
+Added Pin To Net: NetName=SCLK Pin=R5-1
+Added Pin To Net: NetName=SCLK Pin=R6-2
+Added Pin To Net: NetName=REF Pin=R17-1
+Added Pin To Net: NetName=NetQ3_2 Pin=R17-2
+Added Pin To Net: NetName=NetQ3_2 Pin=R18-2
+Added Pin To Net: NetName=REF Pin=R19-2
+Added Pin To Net: NetName=NetQ3_1 Pin=Rel1-1
+Added Pin To Net: NetName=AVSS Pin=Rel1-12
+Added Pin To Net: NetName=SCLK Pin=U4-14
+Added Pin To Net: NetName=SCLK Pin=U4-16
+Added Pin To Net: NetName=SCLK Pin=U4-EXP
+Added Pin To Net: NetName=AVSS Pin=U9-12
+Added Pin To Net: NetName=AVSS Pin=U9-18
+Added Pin To Net: NetName=REF Pin=U9-19
+Added Pin To Net: NetName=AVSS Pin=U10-2
+Change Net Name : Old Net Name=REF New Net Name=V3V3
+Added Pin To Net: NetName=DOUT1 Pin=P3-2
+Added Pin To Net: NetName=DOUT1 Pin=U9-17
+Added Net: Name=DOUT1
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=U9-2
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC28_2 Pin=C28-2
+Added Pin To Net: NetName=NetC28_2 Pin=U9-4
+Added Net: Name=NetC28_2
+Added Pin To Net: NetName=NetC30_1 Pin=C30-1
+Added Pin To Net: NetName=NetC30_1 Pin=U9-5
+Added Net: Name=NetC30_1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=U9-6
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=U9-3
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=U9-7
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetR18_1 Pin=R18-1
+Added Pin To Net: NetName=NetR18_1 Pin=U3-29
+Added Net: Name=NetR18_1
+Added Pin To Net: NetName=NetU3_18 Pin=U3-18
+Added Pin To Net: NetName=NetU3_18 Pin=U9-20
+Added Net: Name=NetU3_18
+Added Pin To Net: NetName=NetU3_19 Pin=U3-19
+Added Pin To Net: NetName=NetU3_19 Pin=U9-1
+Added Net: Name=NetU3_19
+Added Pin To Net: NetName=NetU3_34 Pin=U3-34
+Added Pin To Net: NetName=NetU3_34 Pin=U9-13
+Added Net: Name=NetU3_34
+Added Pin To Net: NetName=NetU3_35 Pin=U3-35
+Added Pin To Net: NetName=NetU3_35 Pin=U9-15
+Added Net: Name=NetU3_35
+Added Pin To Net: NetName=REF Pin=R19-1
+Added Pin To Net: NetName=REF Pin=U3-10
+Added Pin To Net: NetName=REF Pin=U10-1
+Added Net: Name=REF
+Added Pin To Net: NetName=RIN1 Pin=P3-1
+Added Pin To Net: NetName=RIN1 Pin=U9-16
+Added Net: Name=RIN1
+Added Member To Class: ClassName=comms Member=Component C28 C Pol
+Added Member To Class: ClassName=comms Member=Component C29 Bypass
+Added Member To Class: ClassName=comms Member=Component C30 C Pol
+Added Member To Class: ClassName=comms Member=Component C31 C Pol
+Added Member To Class: ClassName=comms Member=Component C32 C Pol
+Added Member To Class: ClassName=comms Member=Component R17 Rb
+Added Member To Class: ClassName=comms Member=Component R18 Rb
+Added Member To Class: ClassName=Micro Member=Component R19 Res3
+Added Member To Class: ClassName=comms Member=Component U9 MAX3222CAP
+Added Member To Class: ClassName=Micro Member=Component U10 LM4040 2.5V SOT-23

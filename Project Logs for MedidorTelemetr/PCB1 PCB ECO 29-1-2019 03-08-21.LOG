@@ -1,0 +1,6 @@
+Added Component: Designator=U2(QFP50P1200X1200X160-64N)
+Added Pin To Net: NetName=NetC?_2 Pin=U2-7
+Added Pin To Net: NetName=NetU2_8 Pin=U2-8
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=3V Pin=U2-64
+Added Member To Class: ClassName=Micro Member=Component U2 MSP430F2410TPMR

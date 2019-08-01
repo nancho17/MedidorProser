@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=U7 Old Footprint=SOIC127P1033X264-14N New Footprint=*SO16W
+Added Pin To Net: NetName=SCLK Pin=U7-15
+Added Pin To Net: NetName=3VINDEPENDNT Pin=U7-16

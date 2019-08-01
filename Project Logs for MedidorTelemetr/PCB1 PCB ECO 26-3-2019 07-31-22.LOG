@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=M_GND Pin=C6-2
+Removed Pin From Net: NetName=M_GND Pin=C7-1
+Removed Pin From Net: NetName=M_GND Pin=C11-1
+Removed Pin From Net: NetName=M_GND Pin=C12-2
+Removed Pin From Net: NetName=M_GND Pin=C15-1
+Removed Pin From Net: NetName=M_GND Pin=C18-2
+Removed Pin From Net: NetName=M_GND Pin=C19-2
+Removed Pin From Net: NetName=M_GND Pin=C20-1
+Removed Pin From Net: NetName=MISO_RX Pin=R4-1
+Removed Pin From Net: NetName=M_V3V3 Pin=R4-2
+Removed Pin From Net: NetName=M_V3V3 Pin=R5-2
+Removed Pin From Net: NetName=M_V3V3 Pin=R6-2
+Removed Pin From Net: NetName=NetC15_2 Pin=R12-1
+Removed Pin From Net: NetName=NetC18_1 Pin=R15-1
+Removed Pin From Net: NetName=M_GND Pin=R16-1
+Removed Pin From Net: NetName=M_GND Pin=R18-2
+Removed Pin From Net: NetName=M_GND Pin=U4-4
+Removed Pin From Net: NetName=NetC15_2 Pin=U4-9
+Removed Pin From Net: NetName=NetC18_1 Pin=U4-10
+Removed Pin From Net: NetName=M_GND Pin=U4-16
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=C15
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=C18
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=C19
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=C20
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R4
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R5
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R6
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R8
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R11
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R12
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R15
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R16
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R17
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=R18
+Change Component DesignItemId : Designator=C11 Old DesignItemId=Cap New DesignItemId=Cap Pol3
+Change Component Footprint: Designator=C11 Old Footprint=1608[0603] New Footprint=C0805
+Change Component Comment : Designator=U5 Old Comment=ADUM1411ARWZ-RL New Comment=aDUM1412
+Change Component Comment : Designator=C11 Old Comment=Cap New Comment=Cap Pol3
+Change Component Comment : Designator=R8 Old Comment=Res3 New Comment=Low tolerance resist
+Change Component Comment : Designator=R12 Old Comment=Res3 New Comment=Low tolerance resistor
+Change Component Comment : Designator=R11 Old Comment=Res3 New Comment=Res Shunt
+Added Component: Designator=K1(DIP-P8)
+Added Component: Designator=K2(DIP-P8)
+Added Component: Designator=K3(DIP-P8)
+Added Component: Designator=K4(DIP-P8)
+Added Component: Designator=K5(MODULE5B)
+Added Component: Designator=K6(DIP-P8)
+Added Pin To Net: NetName=M_V3V3 Pin=C11-1
+Added Pin To Net: NetName=M_V3V3 Pin=C12-2
+Added Pin To Net: NetName=NetC15_2 Pin=R4-2
+Added Pin To Net: NetName=NetC15_2 Pin=R5-2
+Added Pin To Net: NetName=NetC18_1 Pin=R6-1
+Added Pin To Net: NetName=NetC18_1 Pin=U4-11
+Added Pin To Net: NetName=NetC15_2 Pin=U4-12
+Added Pin To Net: NetName=M_GND Pin=U4-25
+Added Pin To Net: NetName=M_V3V3 Pin=U4-28
+Added Pin To Net: NetName=NetU3_16 Pin=U5-3
+Change Net Name : Old Net Name=M_GND New Net Name=SCLK
+Change Net Name : Old Net Name=M_V3V3 New Net Name=CS
+Added Pin To Net: NetName=ANALOG Pin=C6-2
+Added Pin To Net: NetName=ANALOG Pin=C7-1
+Added Pin To Net: NetName=ANALOG Pin=C11-2
+Added Pin To Net: NetName=ANALOG Pin=C12-1
+Added Pin To Net: NetName=ANALOG Pin=C15-1
+Added Pin To Net: NetName=ANALOG Pin=C18-2
+Added Pin To Net: NetName=ANALOG Pin=C19-1
+Added Pin To Net: NetName=ANALOG Pin=C20-2
+Added Pin To Net: NetName=ANALOG Pin=P4-3
+Added Pin To Net: NetName=ANALOG Pin=R5-1
+Added Pin To Net: NetName=ANALOG Pin=R6-2
+Added Pin To Net: NetName=ANALOG Pin=U4-16
+Added Net: Name=ANALOG
+Added Pin To Net: NetName=CURRENT_MEASUREMENTA Pin=P4-2
+Added Pin To Net: NetName=CURRENT_MEASUREMENTA Pin=R8-2
+Added Pin To Net: NetName=CURRENT_MEASUREMENTA Pin=R11-1
+Added Net: Name=CURRENT_MEASUREMENTA
+Added Pin To Net: NetName=CURRENT_MEASUREMENTB Pin=P4-1
+Added Pin To Net: NetName=CURRENT_MEASUREMENTB Pin=R11-2
+Added Pin To Net: NetName=CURRENT_MEASUREMENTB Pin=R12-2
+Added Net: Name=CURRENT_MEASUREMENTB
+Added Pin To Net: NetName=IRQAD Pin=R2-1
+Added Pin To Net: NetName=IRQAD Pin=U5-12
+Added Net: Name=IRQAD
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R8-1
+Added Pin To Net: NetName=NetC19_2 Pin=U4-5
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=R12-1
+Added Pin To Net: NetName=NetC20_1 Pin=U4-6
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetK1_3 Pin=K1-3
+Added Pin To Net: NetName=NetK1_3 Pin=K3-2
+Added Net: Name=NetK1_3
+Added Pin To Net: NetName=NetK1_6 Pin=K1-6
+Added Pin To Net: NetName=NetK1_6 Pin=K3-5
+Added Net: Name=NetK1_6
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_4 Pin=R4-1
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetU4_9 Pin=U4-9
+Added Net: Name=NetU4_9
+Added Pin To Net: NetName=NetU4_10 Pin=U4-10
+Added Net: Name=NetU4_10
+Added Pin To Net: NetName=NetU5_5 Pin=U5-5
+Added Net: Name=NetU5_5
+Added Pin To Net: NetName=RESETT Pin=K6-2
+Added Pin To Net: NetName=RESETT Pin=R7-1
+Added Pin To Net: NetName=RESETT Pin=U5-14
+Added Net: Name=RESETT
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component C15 Cap
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component C18 Cap
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component C19 Cap
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component C20 Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K1 Relay-DPDT
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K2 Relay-DPDT
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K3 Relay-DPDT
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K4 Relay-DPDT
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K5 Relay
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K6 Relay-DPDT
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component R4 Res3
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component R5 Res3
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component R6 Res3
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component R8 Low tolerance resist
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component R11 Res Shunt
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component R12 Low tolerance resistor

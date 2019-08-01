@@ -1,0 +1,50 @@
+Added Component: Designator=C10(1608[0603])
+Added Component: Designator=C14(1608[0603])
+Added Component: Designator=C17(1608[0603])
+Added Component: Designator=C23(C1206)
+Added Component: Designator=C25(C1206)
+Added Component: Designator=D4(SMB)
+Added Component: Designator=L2(INDC4532)
+Added Component: Designator=U1(SOIC127P1033X264-14N)
+Added Component: Designator=U7(SOIC127P1033X264-14N)
+Added Component: Designator=U8(MP04A_N)
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=CS Pin=C10-2
+Added Pin To Net: NetName=DCIN1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=DCIN1 Pin=C17-1
+Added Pin To Net: NetName=NetC16_1 Pin=C17-2
+Added Pin To Net: NetName=DCIN1 Pin=C23-1
+Added Pin To Net: NetName=DCIN2 Pin=C23-2
+Added Pin To Net: NetName=DCIN1 Pin=C25-1
+Added Pin To Net: NetName=CS Pin=C25-2
+Added Pin To Net: NetName=DCIN1 Pin=D4-1
+Added Pin To Net: NetName=OUTLM Pin=D4-2
+Added Pin To Net: NetName=NetC24_2 Pin=L2-1
+Added Pin To Net: NetName=OUTLM Pin=L2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-3
+Added Pin To Net: NetName=DCIN3 Pin=U1-4
+Added Pin To Net: NetName=DCIN3 Pin=U1-5
+Added Pin To Net: NetName=DCIN3 Pin=U1-6
+Added Pin To Net: NetName=DCIN4 Pin=U1-10
+Added Pin To Net: NetName=OUTLM Pin=U1-12
+Added Pin To Net: NetName=NetC24_2 Pin=U7-3
+Added Pin To Net: NetName=DCIN1 Pin=U7-4
+Added Pin To Net: NetName=DCIN1 Pin=U7-5
+Added Pin To Net: NetName=DCIN1 Pin=U7-6
+Added Pin To Net: NetName=DCIN2 Pin=U7-10
+Added Pin To Net: NetName=OUTLM Pin=U7-12
+Added Pin To Net: NetName=DCIN1 Pin=U8-1
+Added Pin To Net: NetName=CS Pin=U8-2
+Added Pin To Net: NetName=NetC24_2 Pin=U8-3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C10 Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C14 Cap
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component C17 Cap
+Added Member To Class: ClassName=Alimentacion Member=Component C23 Cap Semi
+Added Member To Class: ClassName=Alimentacion Member=Component C25 Cap Semi
+Added Member To Class: ClassName=Alimentacion Member=Component D4 D Schottky
+Added Member To Class: ClassName=Alimentacion Member=Component L2 Inductor
+Added Member To Class: ClassName=Alimentacion Member=Component U1 LM2574N-5
+Added Member To Class: ClassName=Alimentacion Member=Component U7 LM2574N-5
+Added Member To Class: ClassName=Alimentacion Member=Component U8 LM1117IMPX-3.3
+Added Room: Name=Alimentacion

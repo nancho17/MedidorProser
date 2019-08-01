@@ -1,0 +1,50 @@
+Added Component: Designator=C6(VR4)
+Added Component: Designator=C7(RAD-0.3)
+Added Component: Designator=D2(SMB)
+Added Component: Designator=E1(PIN1)
+Added Component: Designator=LS1(ABSM-1574)
+Added Component: Designator=Q1(TO-262-AA)
+Added Component: Designator=R2(AXIAL-0.4)
+Added Component: Designator=U4(*LFCSP28_ADE7953(Primary))
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U4-16
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=C7-2
+Added Pin To Net: NetName=NetC6_1 Pin=D2-2
+Added Pin To Net: NetName=NetC6_1 Pin=LS1-1
+Added Pin To Net: NetName=NetC6_1 Pin=LS1-1A
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=E1-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC6_3 Pin=C6-3
+Added Pin To Net: NetName=NetC6_3 Pin=LS1-2
+Added Pin To Net: NetName=NetC6_3 Pin=LS1-2A
+Added Pin To Net: NetName=NetC6_3 Pin=Q1-2
+Added Net: Name=NetC6_3
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U4-24
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U4-28
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=U4-18
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U4-2
+Added Pin To Net: NetName=NetR2_2 Pin=U4-5
+Added Pin To Net: NetName=NetR2_2 Pin=U4-6
+Added Pin To Net: NetName=NetR2_2 Pin=U4-7
+Added Pin To Net: NetName=NetR2_2 Pin=U4-8
+Added Pin To Net: NetName=NetR2_2 Pin=U4-9
+Added Pin To Net: NetName=NetR2_2 Pin=U4-10
+Added Pin To Net: NetName=NetR2_2 Pin=U4-11
+Added Pin To Net: NetName=NetR2_2 Pin=U4-12
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetU4_25 Pin=U4-25
+Added Pin To Net: NetName=NetU4_25 Pin=U4-27
+Added Net: Name=NetU4_25
+Added Class: Name=CircuitoMedidorADE
+Added Room: Name=CircuitoMedidorADE

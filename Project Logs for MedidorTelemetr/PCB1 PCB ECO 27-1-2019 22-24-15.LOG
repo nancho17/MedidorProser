@@ -1,0 +1,8 @@
+Added Component: Designator=P1(MHDR1X4)
+Added Component: Designator=P2(HDR1X4)
+Added Component: Designator=P7(MHDR1X4)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=VCCIN Pin=P1-4
+Added Member To Class: ClassName=Hoja1 Member=Component P1 Header 4
+Added Member To Class: ClassName=Hoja1 Member=Component P2 Header 4
+Added Member To Class: ClassName=Hoja1 Member=Component P7 MHDR1X4

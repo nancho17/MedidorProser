@@ -1,0 +1,570 @@
+Protel Design System Design Rule Check
+PCB File : C:\Proyects\Diseños en Altium\MedidorServaind\PCBenDIM.PcbDoc
+Date     : 10/4/2019
+Time     : 22:17:53
+
+ERROR : More than 500 violations detected, DRC was stopped
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (Disabled)(HasPad('U3-*','U4-*')),(HasPad('U3-*','U4-*'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room ParteAnalogicaMedicion (Bounding Region = (22.975mm, 15.075mm, 125.476mm, 52.8mm) (InComponentClass('ParteAnalogicaMedicion'))
+Rule Violations :0
+
+Processing Rule : Room Micro (Bounding Region = (20.45mm, 36.7mm, 139.675mm, 107.475mm) (InComponentClass('Micro'))
+Rule Violations :0
+
+Processing Rule : Room comms (Bounding Region = (16.15mm, 39.475mm, 149.668mm, 115.875mm) (InComponentClass('comms'))
+Rule Violations :0
+
+Processing Rule : Room CircuitoMedidorADE (Bounding Region = (18.175mm, 18.325mm, 125.8mm, 64.1mm) (InComponentClass('CircuitoMedidorADE'))
+Rule Violations :0
+
+Processing Rule : Room Alimentacion (Bounding Region = (7.747mm, 21.336mm, 126.873mm, 121.412mm) (InComponentClass('Alimentacion'))
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.254mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.165mm < 0.254mm) Between Text "C1" (66.323mm,88.631mm) on Top Overlay And Arc (68.225mm,88.865mm) on Top Overlay Silk Text to Silk Clearance [0.165mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "P3" (106.02mm,88.544mm) on Top Overlay And Track (104.751mm,89.775mm)(112.395mm,89.775mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R13" (95.233mm,77.788mm) on Top Overlay And Track (96.025mm,78.625mm)(96.425mm,78.625mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R13" (95.233mm,77.788mm) on Top Overlay And Track (96.025mm,79.325mm)(96.425mm,79.325mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.019mm < 0.254mm) Between Text "C5" (32.617mm,74.238mm) on Top Overlay And Track (32.05mm,74.225mm)(32.45mm,74.225mm) on Top Overlay Silk Text to Silk Clearance [0.019mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "C5" (32.617mm,74.238mm) on Top Overlay And Track (32.05mm,74.925mm)(32.45mm,74.925mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (0.233mm < 0.254mm) Between Text "L2" (68.047mm,34.214mm) on Top Overlay And Track (70.35mm,34.975mm)(71.15mm,34.975mm) on Top Overlay Silk Text to Silk Clearance [0.233mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R15" (98.627mm,66.403mm) on Top Overlay And Track (101.125mm,55.365mm)(101.125mm,66.225mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 0.254mm) Between Text "R15" (98.627mm,66.403mm) on Top Overlay And Track (101.125mm,66.225mm)(101.125mm,78.365mm) on Top Overlay Silk Text to Silk Clearance [0mm]
+Rule Violations :9
+
+Processing Rule : Silk To Solder Mask (Clearance=0.254mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,82.825mm)(96.425mm,82.825mm) on Top Overlay And Pad R3-1(96.975mm,83.175mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,83.525mm)(96.425mm,83.525mm) on Top Overlay And Pad R3-1(96.975mm,83.175mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,82.825mm)(96.425mm,82.825mm) on Top Overlay And Pad R3-2(95.475mm,83.175mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,83.525mm)(96.425mm,83.525mm) on Top Overlay And Pad R3-2(95.475mm,83.175mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,78.625mm)(96.425mm,78.625mm) on Top Overlay And Pad R10-1(96.975mm,78.975mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,79.325mm)(96.425mm,79.325mm) on Top Overlay And Pad R10-1(96.975mm,78.975mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "R13" (95.233mm,77.788mm) on Top Overlay And Pad R10-1(96.975mm,78.975mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,78.625mm)(96.425mm,78.625mm) on Top Overlay And Pad R10-2(95.475mm,78.975mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,79.325mm)(96.425mm,79.325mm) on Top Overlay And Pad R10-2(95.475mm,78.975mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "R13" (95.233mm,77.788mm) on Top Overlay And Pad R10-2(95.475mm,78.975mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,76.775mm)(96.425mm,76.775mm) on Top Overlay And Pad R13-1(96.975mm,76.425mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,76.075mm)(96.425mm,76.075mm) on Top Overlay And Pad R13-1(96.975mm,76.425mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,76.775mm)(96.425mm,76.775mm) on Top Overlay And Pad R13-2(95.475mm,76.425mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,76.075mm)(96.425mm,76.075mm) on Top Overlay And Pad R13-2(95.475mm,76.425mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,72.7mm)(96.425mm,72.7mm) on Top Overlay And Pad R16-1(96.975mm,72.35mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,72mm)(96.425mm,72mm) on Top Overlay And Pad R16-1(96.975mm,72.35mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,72.7mm)(96.425mm,72.7mm) on Top Overlay And Pad R16-2(95.475mm,72.35mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (96.025mm,72mm)(96.425mm,72mm) on Top Overlay And Pad R16-2(95.475mm,72.35mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (32.05mm,74.925mm)(32.45mm,74.925mm) on Top Overlay And Pad R1-1(33mm,74.575mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (32.05mm,74.225mm)(32.45mm,74.225mm) on Top Overlay And Pad R1-1(33mm,74.575mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "C5" (32.617mm,74.238mm) on Top Overlay And Pad R1-1(33mm,74.575mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (32.05mm,74.925mm)(32.45mm,74.925mm) on Top Overlay And Pad R1-2(31.5mm,74.575mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (32.05mm,74.225mm)(32.45mm,74.225mm) on Top Overlay And Pad R1-2(31.5mm,74.575mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (56.25mm,47.675mm)(56.65mm,47.675mm) on Top Overlay And Pad R7-1(55.7mm,48.025mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (56.25mm,48.375mm)(56.65mm,48.375mm) on Top Overlay And Pad R7-1(55.7mm,48.025mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (56.25mm,47.675mm)(56.65mm,47.675mm) on Top Overlay And Pad R7-2(57.2mm,48.025mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (56.25mm,48.375mm)(56.65mm,48.375mm) on Top Overlay And Pad R7-2(57.2mm,48.025mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.11mm < 0.254mm) Between Text "Y1" (39.688mm,68.628mm) on Top Overlay And Pad C4-1(40.425mm,70.825mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.11mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "R1" (31.325mm,72.175mm) on Top Overlay And Pad C5-2(33.075mm,72.475mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "C7" (52.425mm,34.525mm) on Top Overlay And Pad C12-1(52.375mm,35.85mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "L2" (68.047mm,34.214mm) on Top Overlay And Pad C24-2(69.4mm,35.725mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "D4" (66.091mm,29.794mm) on Top Overlay And Pad L2-2(68.65mm,31.65mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (82.825mm,40.275mm)(82.825mm,40.675mm) on Top Overlay And Pad R4-1(83.175mm,39.725mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (83.525mm,40.275mm)(83.525mm,40.675mm) on Top Overlay And Pad R4-1(83.175mm,39.725mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (82.825mm,40.275mm)(82.825mm,40.675mm) on Top Overlay And Pad R4-2(83.175mm,41.225mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (83.525mm,40.275mm)(83.525mm,40.675mm) on Top Overlay And Pad R4-2(83.175mm,41.225mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (78.675mm,49.25mm)(78.675mm,49.65mm) on Top Overlay And Pad R5-1(78.325mm,48.7mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (77.975mm,49.25mm)(77.975mm,49.65mm) on Top Overlay And Pad R5-1(78.325mm,48.7mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (78.675mm,49.25mm)(78.675mm,49.65mm) on Top Overlay And Pad R5-2(78.325mm,50.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (77.975mm,49.25mm)(77.975mm,49.65mm) on Top Overlay And Pad R5-2(78.325mm,50.2mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (78.775mm,44.55mm)(78.775mm,44.95mm) on Top Overlay And Pad R6-1(79.125mm,44mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (79.475mm,44.55mm)(79.475mm,44.95mm) on Top Overlay And Pad R6-1(79.125mm,44mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (78.775mm,44.55mm)(78.775mm,44.95mm) on Top Overlay And Pad R6-2(79.125mm,45.5mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (79.475mm,44.55mm)(79.475mm,44.95mm) on Top Overlay And Pad R6-2(79.125mm,45.5mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (87.85mm,49.8mm)(88.25mm,49.8mm) on Top Overlay And Pad R8-1(87.3mm,50.15mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (87.85mm,50.5mm)(88.25mm,50.5mm) on Top Overlay And Pad R8-1(87.3mm,50.15mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (87.85mm,49.8mm)(88.25mm,49.8mm) on Top Overlay And Pad R8-2(88.8mm,50.15mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (87.85mm,50.5mm)(88.25mm,50.5mm) on Top Overlay And Pad R8-2(88.8mm,50.15mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (87.85mm,44.15mm)(88.25mm,44.15mm) on Top Overlay And Pad R12-1(88.8mm,44.5mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (87.85mm,44.85mm)(88.25mm,44.85mm) on Top Overlay And Pad R12-1(88.8mm,44.5mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (87.85mm,44.15mm)(88.25mm,44.15mm) on Top Overlay And Pad R12-2(87.3mm,44.5mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (87.85mm,44.85mm)(88.25mm,44.85mm) on Top Overlay And Pad R12-2(87.3mm,44.5mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "C2" (72.694mm,88.705mm) on Top Overlay And Pad U1-4(72.625mm,90.985mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "C2" (72.694mm,88.705mm) on Top Overlay And Pad U1-5(73.895mm,90.985mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Track (50.475mm,97.55mm)(57.175mm,97.55mm) on Top Overlay And Pad U2-1(51.525mm,96.05mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Track (50.475mm,97.55mm)(57.175mm,97.55mm) on Top Overlay And Pad U2-2(53.825mm,96.05mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Track (50.475mm,97.55mm)(57.175mm,97.55mm) on Top Overlay And Pad U2-3(56.125mm,96.05mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "D1" (56.421mm,94.234mm) on Top Overlay And Pad U2-3(56.125mm,96.05mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Track (50.475mm,100.35mm)(57.175mm,100.35mm) on Top Overlay And Pad U2-4(53.825mm,101.85mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Track (40.72mm,77.92mm)(41.609mm,77.92mm) on Top Overlay And Pad U3-1(42.066mm,77.31mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Track (50.041mm,77.92mm)(50.93mm,77.92mm) on Top Overlay And Pad U3-16(49.584mm,77.31mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Track (50.93mm,77.92mm)(50.93mm,78.809mm) on Top Overlay And Pad U3-17(51.54mm,79.266mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Track (50.93mm,87.241mm)(50.93mm,88.13mm) on Top Overlay And Pad U3-32(51.54mm,86.784mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Track (50.041mm,88.13mm)(50.93mm,88.13mm) on Top Overlay And Pad U3-33(49.584mm,88.74mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Track (40.72mm,88.13mm)(41.609mm,88.13mm) on Top Overlay And Pad U3-48(42.066mm,88.74mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Track (40.72mm,87.241mm)(40.72mm,88.13mm) on Top Overlay And Pad U3-49(40.11mm,86.784mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.241mm < 0.254mm) Between Track (40.72mm,77.92mm)(40.72mm,78.809mm) on Top Overlay And Pad U3-64(40.11mm,79.266mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.241mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.245mm < 0.254mm) Between Track (91.789mm,63.28mm)(91.789mm,64.347mm) on Top Overlay And Pad U6-1(91.205mm,65.439mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.245mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.245mm < 0.254mm) Between Track (86.811mm,61.603mm)(86.811mm,64.347mm) on Top Overlay And Pad U6-4(87.395mm,65.439mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.245mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.245mm < 0.254mm) Between Track (86.811mm,61.603mm)(86.811mm,64.347mm) on Top Overlay And Pad U6-5(87.395mm,60.511mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.245mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.245mm < 0.254mm) Between Track (91.789mm,61.603mm)(91.789mm,62.67mm) on Top Overlay And Pad U6-8(91.205mm,60.511mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.245mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (99.35mm,46.425mm)(99.75mm,46.425mm) on Top Overlay And Pad R11-1(98.8mm,46.775mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (99.35mm,47.125mm)(99.75mm,47.125mm) on Top Overlay And Pad R11-1(98.8mm,46.775mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (99.35mm,46.425mm)(99.75mm,46.425mm) on Top Overlay And Pad R11-2(100.3mm,46.775mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (99.35mm,47.125mm)(99.75mm,47.125mm) on Top Overlay And Pad R11-2(100.3mm,46.775mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (51.8mm,48.425mm)(52.2mm,48.425mm) on Top Overlay And Pad R2-1(52.75mm,48.075mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (51.8mm,47.725mm)(52.2mm,47.725mm) on Top Overlay And Pad R2-1(52.75mm,48.075mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (51.8mm,48.425mm)(52.2mm,48.425mm) on Top Overlay And Pad R2-2(51.25mm,48.075mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (51.8mm,47.725mm)(52.2mm,47.725mm) on Top Overlay And Pad R2-2(51.25mm,48.075mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Track (58.25mm,31.525mm)(64.95mm,31.525mm) on Top Overlay And Pad U8-1(63.9mm,33.025mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Track (58.25mm,31.525mm)(64.95mm,31.525mm) on Top Overlay And Pad U8-2(61.6mm,33.025mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Track (58.25mm,31.525mm)(64.95mm,31.525mm) on Top Overlay And Pad U8-3(59.3mm,33.025mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.2mm < 0.254mm) Between Track (58.25mm,28.725mm)(64.95mm,28.725mm) on Top Overlay And Pad U8-4(61.6mm,27.225mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.2mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "C22" (94.655mm,65.793mm) on Top Overlay And Pad R15-1(98.975mm,65.75mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "R15" (98.627mm,66.403mm) on Top Overlay And Pad R15-1(98.975mm,65.75mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (82.825mm,48.9mm)(82.825mm,49.3mm) on Top Overlay And Pad R14-2(83.175mm,49.85mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (83.525mm,48.9mm)(83.525mm,49.3mm) on Top Overlay And Pad R14-2(83.175mm,49.85mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (82.825mm,48.9mm)(82.825mm,49.3mm) on Top Overlay And Pad R14-1(83.175mm,48.35mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (83.525mm,48.9mm)(83.525mm,49.3mm) on Top Overlay And Pad R14-1(83.175mm,48.35mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "R9" (82.829mm,46.812mm) on Top Overlay And Pad R14-1(83.175mm,48.35mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (82.825mm,44.588mm)(82.825mm,44.988mm) on Top Overlay And Pad R9-2(83.175mm,45.538mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (83.525mm,44.588mm)(83.525mm,44.988mm) on Top Overlay And Pad R9-2(83.175mm,45.538mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (82.825mm,44.588mm)(82.825mm,44.988mm) on Top Overlay And Pad R9-1(83.175mm,44.038mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.1mm < 0.254mm) Between Track (83.525mm,44.588mm)(83.525mm,44.988mm) on Top Overlay And Pad R9-1(83.175mm,44.038mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0.1mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 0.254mm) Between Text "R4" (82.83mm,42.495mm) on Top Overlay And Pad R9-1(83.175mm,44.038mm) on Top Layer [Top Overlay] to [Top Solder] clearance [0mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.254mm) Between Track (122.125mm,82.401mm)(122.125mm,92.579mm) on Top Overlay And Pad P3-4(122.125mm,80.775mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.226mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.254mm) Between Track (123.751mm,80.775mm)(128.27mm,80.775mm) on Top Overlay And Pad P3-4(122.125mm,80.775mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.226mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.254mm) Between Track (103.125mm,91.401mm)(103.125mm,102.87mm) on Top Overlay And Pad P2-4(103.125mm,89.775mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.226mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.254mm) Between Track (104.751mm,89.775mm)(112.395mm,89.775mm) on Top Overlay And Pad P2-4(103.125mm,89.775mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.226mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.254mm) Between Track (122.125mm,36.576mm)(122.125mm,47.149mm) on Top Overlay And Pad P1-1(122.125mm,48.775mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.226mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.254mm) Between Track (123.751mm,48.775mm)(132.842mm,48.775mm) on Top Overlay And Pad P1-1(122.125mm,48.775mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.226mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.254mm) Between Track (103.125mm,32.131mm)(103.125mm,38.149mm) on Top Overlay And Pad P4-1(103.125mm,39.775mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.226mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.226mm < 0.254mm) Between Track (104.751mm,39.775mm)(112.254mm,39.775mm) on Top Overlay And Pad P4-1(103.125mm,39.775mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.226mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.172mm < 0.254mm) Between Track (62.55mm,67mm)(62.55mm,83mm) on Top Overlay And Pad Rel1-2(63.85mm,75mm) on Multi-Layer [Top Overlay] to [Top Solder] clearance [0.172mm]
+Rule Violations :104
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Via (89.798mm,72.466mm) from Top Layer to Bottom Layer And Pad U9-5(91.225mm,73.645mm) on Top Layer [Top Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.066mm < 0.254mm) Between Via (74.473mm,88.341mm) from Top Layer to Bottom Layer And Pad C2-2(73.15mm,86.95mm) on Top Layer [Top Solder] Mask Sliver [0.066mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.112mm < 0.254mm) Between Via (74.473mm,88.341mm) from Top Layer to Bottom Layer And Pad C2-1(75.85mm,86.95mm) on Top Layer [Top Solder] Mask Sliver [0.112mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C11-1(54.875mm,37.375mm) on Top Layer And Pad C11-2(54.875mm,35.875mm) on Top Layer [Top Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.186mm < 0.254mm) Between Via (47.572mm,46.231mm) from Top Layer to Bottom Layer And Pad C25-1(49.075mm,44.925mm) on Top Layer [Top Solder] Mask Sliver [0.186mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.006mm < 0.254mm) Between Via (83.922mm,38.557mm) from Top Layer to Bottom Layer And Pad R4-1(83.175mm,39.725mm) on Top Layer [Top Solder] Mask Sliver [0.006mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-2(42.574mm,77.31mm) on Top Layer And Pad U3-1(42.066mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-3(43.082mm,77.31mm) on Top Layer And Pad U3-2(42.574mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-5(44.072mm,77.31mm) on Top Layer And Pad U3-4(43.564mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-6(44.58mm,77.31mm) on Top Layer And Pad U3-5(44.072mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-8(45.571mm,77.31mm) on Top Layer And Pad U3-7(45.063mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-9(46.079mm,77.31mm) on Top Layer And Pad U3-8(45.571mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-10(46.587mm,77.31mm) on Top Layer And Pad U3-9(46.079mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-12(47.578mm,77.31mm) on Top Layer And Pad U3-11(47.07mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-13(48.086mm,77.31mm) on Top Layer And Pad U3-12(47.578mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.233mm < 0.254mm) Between Via (48.086mm,79.118mm) from Top Layer to Bottom Layer And Pad U3-13(48.086mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.233mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-15(49.076mm,77.31mm) on Top Layer And Pad U3-14(48.568mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-16(49.584mm,77.31mm) on Top Layer And Pad U3-15(49.076mm,77.31mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-18(51.54mm,79.774mm) on Top Layer And Pad U3-17(51.54mm,79.266mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-19(51.54mm,80.282mm) on Top Layer And Pad U3-18(51.54mm,79.774mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-21(51.54mm,81.272mm) on Top Layer And Pad U3-20(51.54mm,80.764mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-22(51.54mm,81.78mm) on Top Layer And Pad U3-21(51.54mm,81.272mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-24(51.54mm,82.771mm) on Top Layer And Pad U3-23(51.54mm,82.263mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-25(51.54mm,83.279mm) on Top Layer And Pad U3-24(51.54mm,82.771mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-26(51.54mm,83.787mm) on Top Layer And Pad U3-25(51.54mm,83.279mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-28(51.54mm,84.778mm) on Top Layer And Pad U3-27(51.54mm,84.27mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-29(51.54mm,85.286mm) on Top Layer And Pad U3-28(51.54mm,84.778mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-31(51.54mm,86.276mm) on Top Layer And Pad U3-30(51.54mm,85.768mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-32(51.54mm,86.784mm) on Top Layer And Pad U3-31(51.54mm,86.276mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-34(49.076mm,88.74mm) on Top Layer And Pad U3-33(49.584mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-35(48.568mm,88.74mm) on Top Layer And Pad U3-34(49.076mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-37(47.578mm,88.74mm) on Top Layer And Pad U3-36(48.086mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-38(47.07mm,88.74mm) on Top Layer And Pad U3-37(47.578mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-40(46.079mm,88.74mm) on Top Layer And Pad U3-39(46.587mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-41(45.571mm,88.74mm) on Top Layer And Pad U3-40(46.079mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-42(45.063mm,88.74mm) on Top Layer And Pad U3-41(45.571mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-44(44.072mm,88.74mm) on Top Layer And Pad U3-43(44.58mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.054mm < 0.254mm) Between Via (44.072mm,90.322mm) from Top Layer to Bottom Layer And Pad U3-43(44.58mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.054mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-45(43.564mm,88.74mm) on Top Layer And Pad U3-44(44.072mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.008mm < 0.254mm) Between Via (44.072mm,90.322mm) from Top Layer to Bottom Layer And Pad U3-44(44.072mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.008mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.054mm < 0.254mm) Between Via (44.072mm,90.322mm) from Top Layer to Bottom Layer And Pad U3-45(43.564mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.054mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-47(42.574mm,88.74mm) on Top Layer And Pad U3-46(43.082mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-48(42.066mm,88.74mm) on Top Layer And Pad U3-47(42.574mm,88.74mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-50(40.11mm,86.276mm) on Top Layer And Pad U3-49(40.11mm,86.784mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-51(40.11mm,85.768mm) on Top Layer And Pad U3-50(40.11mm,86.276mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-53(40.11mm,84.778mm) on Top Layer And Pad U3-52(40.11mm,85.286mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-54(40.11mm,84.27mm) on Top Layer And Pad U3-53(40.11mm,84.778mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-56(40.11mm,83.279mm) on Top Layer And Pad U3-55(40.11mm,83.787mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-57(40.11mm,82.771mm) on Top Layer And Pad U3-56(40.11mm,83.279mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-58(40.11mm,82.263mm) on Top Layer And Pad U3-57(40.11mm,82.771mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.047mm < 0.254mm) Between Via (41.69mm,81.771mm) from Top Layer to Bottom Layer And Pad U3-58(40.11mm,82.263mm) on Top Layer [Top Solder] Mask Sliver [0.047mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-60(40.11mm,81.272mm) on Top Layer And Pad U3-59(40.11mm,81.78mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.005mm < 0.254mm) Between Via (41.69mm,81.771mm) from Top Layer to Bottom Layer And Pad U3-59(40.11mm,81.78mm) on Top Layer [Top Solder] Mask Sliver [0.005mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-61(40.11mm,80.764mm) on Top Layer And Pad U3-60(40.11mm,81.272mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.049mm < 0.254mm) Between Via (41.69mm,81.771mm) from Top Layer to Bottom Layer And Pad U3-60(40.11mm,81.272mm) on Top Layer [Top Solder] Mask Sliver [0.049mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-63(40.11mm,79.774mm) on Top Layer And Pad U3-62(40.11mm,80.282mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.025mm < 0.254mm) Between Pad U3-64(40.11mm,79.266mm) on Top Layer And Pad U3-63(40.11mm,79.774mm) on Top Layer [Top Solder] Mask Sliver [0.025mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.13mm < 0.254mm) Between Via (83.922mm,38.557mm) from Top Layer to Bottom Layer And Pad U7-8(84.785mm,36.665mm) on Top Layer [Top Solder] Mask Sliver [0.13mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C6-1(54.175mm,33.375mm) on Top Layer And Pad C6-2(54.175mm,31.875mm) on Top Layer [Top Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C16-1(46.575mm,31.125mm) on Top Layer And Pad C16-2(45.075mm,31.125mm) on Top Layer [Top Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.208mm < 0.254mm) Between Pad U4-28(44.35mm,39.775mm) on Top Layer And Pad U4-1(43.6mm,39.025mm) on Top Layer [Top Solder] Mask Sliver [0.208mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-1(43.6mm,39.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-2(43.625mm,38.525mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-2(43.625mm,38.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-2(43.625mm,38.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-3(43.625mm,38.025mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-3(43.625mm,38.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-3(43.625mm,38.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-4(43.625mm,37.525mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-4(43.625mm,37.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-4(43.625mm,37.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-5(43.625mm,37.025mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-5(43.625mm,37.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-5(43.625mm,37.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-6(43.6mm,36.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-6(43.6mm,36.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.208mm < 0.254mm) Between Pad U4-7(43.6mm,36.025mm) on Top Layer And Pad U4-8(44.35mm,35.275mm) on Top Layer [Top Solder] Mask Sliver [0.208mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-8(44.35mm,35.275mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-9(44.85mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-9(44.85mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-9(44.85mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-10(45.35mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-10(45.35mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-10(45.35mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-11(45.85mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-11(45.85mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-11(45.85mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-12(46.35mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-12(46.35mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-12(46.35mm,35.3mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-13(46.85mm,35.275mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-13(46.85mm,35.275mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-16(48.1mm,36.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-16(48.1mm,36.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-17(48.075mm,37.025mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-17(48.075mm,37.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-17(48.075mm,37.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-18(48.075mm,37.525mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-18(48.075mm,37.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-18(48.075mm,37.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-19(48.075mm,38.025mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-19(48.075mm,38.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-19(48.075mm,38.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-20(48.075mm,38.525mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-20(48.075mm,38.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-20(48.075mm,38.525mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.208mm < 0.254mm) Between Pad U4-22(47.35mm,39.775mm) on Top Layer And Pad U4-21(48.1mm,39.025mm) on Top Layer [Top Solder] Mask Sliver [0.208mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-21(48.1mm,39.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-23(46.85mm,39.775mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-23(46.85mm,39.775mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-24(46.35mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-24(46.35mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-24(46.35mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-25(45.85mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-25(45.85mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-25(45.85mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-26(45.35mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-26(45.35mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-26(45.35mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.247mm < 0.254mm) Between Pad U4-EXP(45.85mm,37.525mm) on Top Layer And Pad U4-27(44.85mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.247mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-27(44.85mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-27(44.85mm,39.75mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-28(44.35mm,39.775mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.208mm < 0.254mm) Between Pad U4-14(47.35mm,35.275mm) on Top Layer And Pad U4-15(48.1mm,36.025mm) on Top Layer [Top Solder] Mask Sliver [0.208mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-15(48.1mm,36.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-7(43.6mm,36.025mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-14(47.35mm,35.275mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.098mm < 0.254mm) Between Region (0 hole(s)) Top Solder And Pad U4-22(47.35mm,39.775mm) on Top Layer [Top Solder] Mask Sliver [0.098mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.021mm < 0.254mm) Between Via (42.012mm,36.22mm) from Top Layer to Bottom Layer And Pad C9-2(41.25mm,37.45mm) on Top Layer [Top Solder] Mask Sliver [0.021mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.197mm < 0.254mm) Between Pad C8-1(38.875mm,37.5mm) on Top Layer And Pad C8-2(38.875mm,39mm) on Top Layer [Top Solder] Mask Sliver [0.197mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.07mm < 0.254mm) Between Via (114.303mm,80.775mm) from Top Layer to Bottom Layer And Pad P3-2(112.125mm,80.775mm) on Multi-Layer [Top Solder] Mask Sliver [0.07mm] / [Bottom Solder] Mask Sliver [0.07mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.254mm) Between Pad Q3-2(57.4mm,83.1mm) on Multi-Layer And Pad Q3-1(57.4mm,81.83mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.254mm) Between Pad Q3-3(57.4mm,84.37mm) on Multi-Layer And Pad Q3-2(57.4mm,83.1mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.254mm) Between Pad Q4-2(56.175mm,68.875mm) on Multi-Layer And Pad Q4-1(56.175mm,67.605mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.067mm < 0.254mm) Between Pad Q4-3(56.175mm,70.145mm) on Multi-Layer And Pad Q4-2(56.175mm,68.875mm) on Multi-Layer [Top Solder] Mask Sliver [0.067mm] / [Bottom Solder] Mask Sliver [0.067mm]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.007mm < 0.254mm) Between Via (48.98mm,66.573mm) from Top Layer to Bottom Layer And Via (49.124mm,68.047mm) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [0.007mm] / [Bottom Solder] Mask Sliver [0.007mm]
+Rule Violations :136
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.29mm) (Preferred=0.254mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (56.921mm,35.56mm) from Top Layer to Bottom Layer Location : [X = 56.921mm][Y = 35.56mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (69.952mm,44.907mm) from Top Layer to Bottom Layer Location : [X = 69.952mm][Y = 44.907mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (52.451mm,45.085mm) from Top Layer to Bottom Layer Location : [X = 52.451mm][Y = 45.085mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (47.572mm,46.231mm) from Top Layer to Bottom Layer Location : [X = 47.572mm][Y = 46.231mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (83.922mm,38.557mm) from Top Layer to Bottom Layer Location : [X = 83.922mm][Y = 38.557mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (74.473mm,88.341mm) from Top Layer to Bottom Layer Location : [X = 74.473mm][Y = 88.341mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (38.173mm,81.709mm) from Top Layer to Bottom Layer Location : [X = 38.173mm][Y = 81.709mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (41.69mm,81.771mm) from Top Layer to Bottom Layer Location : [X = 41.69mm][Y = 81.771mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (37.084mm,83.82mm) from Top Layer to Bottom Layer Location : [X = 37.084mm][Y = 83.82mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (36.708mm,80.747mm) from Top Layer to Bottom Layer Location : [X = 36.708mm][Y = 80.747mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (47.07mm,74.676mm) from Top Layer to Bottom Layer Location : [X = 47.07mm][Y = 74.676mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Via (48.819mm,40.575mm) from Top Layer to Bottom Layer Location : [X = 48.819mm][Y = 40.575mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (48.819mm,40.575mm) from Top Layer to Bottom Layer Location : [X = 48.819mm][Y = 40.575mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (40.437mm,35.433mm) from Top Layer to Bottom Layer Location : [X = 40.437mm][Y = 35.433mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Via (70.841mm,50.241mm) from Top Layer to Bottom Layer Location : [X = 70.841mm][Y = 50.241mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (70.841mm,50.241mm) from Top Layer to Bottom Layer Location : [X = 70.841mm][Y = 50.241mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Via (88.8mm,45.669mm) from Top Layer to Bottom Layer Location : [X = 88.8mm][Y = 45.889mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (88.8mm,45.669mm) from Top Layer to Bottom Layer Location : [X = 88.8mm][Y = 45.669mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (50.952mm,88.595mm) from Top Layer to Bottom Layer Location : [X = 50.952mm][Y = 88.595mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (43.104mm,84.48mm) from Top Layer to Bottom Layer Location : [X = 43.104mm][Y = 84.48mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (44.072mm,90.322mm) from Top Layer to Bottom Layer Location : [X = 44.072mm][Y = 90.322mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (48.463mm,81.102mm) from Top Layer to Bottom Layer Location : [X = 48.463mm][Y = 81.102mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (43.873mm,92.05mm) from Top Layer to Bottom Layer Location : [X = 43.873mm][Y = 92.05mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (106.756mm,87.3mm) from Top Layer to Bottom Layer Location : [X = 106.756mm][Y = 87.3mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (46.507mm,83.871mm) from Top Layer to Bottom Layer Location : [X = 46.507mm][Y = 83.871mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (87.249mm,68.885mm) from Top Layer to Bottom Layer Location : [X = 87.249mm][Y = 68.885mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (96.164mm,70.307mm) from Top Layer to Bottom Layer Location : [X = 96.164mm][Y = 70.307mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (101.879mm,83.464mm) from Top Layer to Bottom Layer Location : [X = 101.879mm][Y = 83.464mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (114.303mm,80.775mm) from Top Layer to Bottom Layer Location : [X = 114.401mm][Y = 80.775mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (89.798mm,72.466mm) from Top Layer to Bottom Layer Location : [X = 89.798mm][Y = 72.466mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (49.124mm,68.047mm) from Top Layer to Bottom Layer Location : [X = 49.124mm][Y = 68.047mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (53.238mm,70.942mm) from Top Layer to Bottom Layer Location : [X = 53.238mm][Y = 70.942mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (48.086mm,79.118mm) from Top Layer to Bottom Layer Location : [X = 48.086mm][Y = 79.118mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (48.539mm,83.261mm) from Top Layer to Bottom Layer Location : [X = 48.539mm][Y = 83.261mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (84.44mm,79.019mm) from Top Layer to Bottom Layer Location : [X = 84.44mm][Y = 79.019mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (52.629mm,74.143mm) from Top Layer to Bottom Layer Location : [X = 52.629mm][Y = 74.143mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (31 hole(s)) Bottom Layer And Via (55.318mm,78.715mm) from Top Layer to Bottom Layer Location : [X = 55.318mm][Y = 78.715mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Via (71.552mm,43.426mm) from Top Layer to Bottom Layer Location : [X = 71.552mm][Y = 43.426mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (71.552mm,43.426mm) from Top Layer to Bottom Layer Location : [X = 71.552mm][Y = 43.426mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (41.402mm,33.172mm) from Top Layer to Bottom Layer Location : [X = 41.402mm][Y = 33.172mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (42.494mm,34.519mm) from Top Layer to Bottom Layer Location : [X = 42.494mm][Y = 34.519mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Via (68.72mm,42.862mm) from Top Layer to Bottom Layer Location : [X = 68.72mm][Y = 42.817mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (68.72mm,42.862mm) from Top Layer to Bottom Layer Location : [X = 68.72mm][Y = 42.862mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (42.012mm,36.22mm) from Top Layer to Bottom Layer Location : [X = 42.012mm][Y = 36.22mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Via (65.608mm,45.06mm) from Top Layer to Bottom Layer Location : [X = 65.608mm][Y = 45.06mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (65.608mm,45.06mm) from Top Layer to Bottom Layer Location : [X = 65.608mm][Y = 45.06mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (8 hole(s)) Bottom Layer And Via (50.19mm,47.219mm) from Top Layer to Bottom Layer Location : [X = 50.19mm][Y = 47.219mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (52.375mm,37.25mm)(52.375mm,44.229mm) on Top Layer Location : [X = 52.375mm][Y = 40.39mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (90.424mm,46.761mm)(98.8mm,46.761mm) on Top Layer Location : [X = 93.838mm][Y = 46.761mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (50.314mm,37.25mm)(52.375mm,37.25mm) on Top Layer Location : [X = 50.795mm][Y = 37.25mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (50.089mm,37.025mm)(50.314mm,37.25mm) on Top Layer Location : [X = 50.201mm][Y = 37.137mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (48.075mm,37.025mm)(50.089mm,37.025mm) on Top Layer Location : [X = 49.544mm][Y = 37.025mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (45.85mm,39.75mm)(45.85mm,40.447mm) on Top Layer Location : [X = 45.902mm][Y = 40.558mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (45.85mm,40.447mm)(47.938mm,42.535mm) on Top Layer Location : [X = 46.969mm][Y = 41.577mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (47.938mm,42.535mm)(50.637mm,42.535mm) on Top Layer Location : [X = 49.288mm][Y = 42.507mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (50.637mm,42.535mm)(51.453mm,43.35mm) on Top Layer Location : [X = 50.701mm][Y = 42.507mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (44.85mm,41.548mm)(46.787mm,43.485mm) on Top Layer Location : [X = 45.983mm][Y = 42.498mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (45.35mm,41.25mm)(47.122mm,43.022mm) on Top Layer Location : [X = 46.382mm][Y = 42.099mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (48.1mm,36.025mm)(48.768mm,36.025mm) on Top Layer Location : [X = 48.884mm][Y = 36.025mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (48.768mm,36.025mm)(50.99mm,33.803mm) on Top Layer Location : [X = 49.776mm][Y = 35.043mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (48.514mm,37.525mm)(48.819mm,37.83mm) on Top Layer Location : [X = 48.909mm][Y = 37.823mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (48.819mm,37.83mm)(48.819mm,40.575mm) on Top Layer Location : [X = 48.819mm][Y = 39.208mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (46.35mm,34.29mm)(46.35mm,35.3mm) on Top Layer Location : [X = 46.35mm][Y = 34.337mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (46.045mm,33.985mm)(46.35mm,34.29mm) on Top Layer Location : [X = 46.263mm][Y = 34.295mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (70.841mm,50.241mm)(70.857mm,50.225mm) on Top Layer Location : [X = 70.849mm][Y = 50.233mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (70.857mm,50.225mm)(73.619mm,50.225mm) on Top Layer Location : [X = 71.688mm][Y = 50.225mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (88.8mm,44.5mm)(88.8mm,45.669mm) on Top Layer Location : [X = 88.8mm][Y = 45.634mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (68.72mm,42.862mm)(68.732mm,42.875mm) on Top Layer Location : [X = 68.726mm][Y = 42.869mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (68.075mm,43.507mm)(68.72mm,42.862mm) on Top Layer Location : [X = 68.559mm][Y = 42.932mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (72.176mm,44.05mm)(73.6mm,44.05mm) on Top Layer Location : [X = 72.338mm][Y = 44.05mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (71.552mm,43.426mm)(72.176mm,44.05mm) on Top Layer Location : [X = 71.864mm][Y = 43.738mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (65.608mm,45.06mm)(65.608mm,49.793mm) on Top Layer Location : [X = 65.608mm][Y = 47.426mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (65.608mm,49.793mm)(66.04mm,50.225mm) on Top Layer Location : [X = 65.567mm][Y = 49.843mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (69.083mm,41.559mm)(70.053mm,40.589mm) on Top Layer Location : [X = 69.083mm][Y = 41.678mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (67.352mm,41.559mm)(69.083mm,41.559mm) on Top Layer Location : [X = 68.218mm][Y = 41.678mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (63.556mm,45.355mm)(67.352mm,41.559mm) on Top Layer Location : [X = 65.426mm][Y = 43.576mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (54.143mm,45.355mm)(63.556mm,45.355mm) on Top Layer Location : [X = 62.359mm][Y = 45.355mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (52.913mm,40.127mm)(52.913mm,44.124mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (52.913mm,40.127mm)(53.543mm,39.497mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (53.543mm,39.497mm)(56.729mm,39.497mm) on Top Layer Location : [X = 54.444mm][Y = 39.497mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (67.402mm,50.225mm)(69.774mm,47.854mm) on Top Layer Location : [X = 68.749mm][Y = 48.97mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (69.774mm,47.854mm)(79.756mm,47.854mm) on Top Layer Location : [X = 74.765mm][Y = 47.854mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (79.756mm,47.854mm)(81.051mm,49.149mm) on Top Layer Location : [X = 80.404mm][Y = 48.501mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (81.051mm,49.149mm)(86.919mm,49.149mm) on Top Layer Location : [X = 0mm][Y = 0mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (86.919mm,49.149mm)(87.3mm,49.53mm) on Top Layer Location : [X = 86.961mm][Y = 49.1mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (46.85mm,33.997mm)(46.85mm,35.275mm) on Top Layer Location : [X = 46.85mm][Y = 34.337mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (88.8mm,48.385mm)(88.8mm,50.15mm) on Top Layer Location : [X = 88.8mm][Y = 48.718mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (88.8mm,48.385mm)(90.424mm,46.761mm) on Top Layer Location : [X = 89.612mm][Y = 47.573mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (87.3mm,44.5mm)(87.3mm,45.542mm) on Top Layer Location : [X = 87.3mm][Y = 45.571mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (87.3mm,45.542mm)(88.113mm,46.355mm) on Top Layer Location : [X = 87.706mm][Y = 45.977mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (88.113mm,46.355mm)(88.113mm,50.8mm) on Top Layer Location : [X = 88.113mm][Y = 47.703mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (88.113mm,50.8mm)(88.671mm,51.359mm) on Top Layer Location : [X = 88.525mm][Y = 51.304mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (88.671mm,51.359mm)(96.49mm,51.359mm) on Top Layer Location : [X = 92.581mm][Y = 51.359mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (96.49mm,51.359mm)(100.3mm,47.549mm) on Top Layer Location : [X = 96.871mm][Y = 50.886mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (84.226mm,40.411mm)(85.928mm,42.113mm) on Top Layer Location : [X = 85.679mm][Y = 41.956mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (85.928mm,42.113mm)(88.392mm,42.113mm) on Top Layer Location : [X = 87.16mm][Y = 42.113mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (88.392mm,42.113mm)(89.738mm,40.767mm) on Top Layer Location : [X = 88.641mm][Y = 41.956mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (83.175mm,45.538mm)(83.175mm,48.35mm) on Top Layer Location : [X = 83.175mm][Y = 46.944mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (83.175mm,42.621mm)(83.175mm,44.038mm) on Top Layer Location : [X = 83.175mm][Y = 42.83mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (83.175mm,42.621mm)(83.175mm,42.621mm) on Top Layer Location : [X = 83.175mm][Y = 42.621mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (83.175mm,41.225mm)(83.175mm,42.621mm) on Top Layer Location : [X = 83.175mm][Y = 42.423mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (53.668mm,37.375mm)(54.875mm,37.375mm) on Top Layer Location : [X = 53.597mm][Y = 37.375mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (53.543mm,37.25mm)(53.668mm,37.375mm) on Top Layer Location : [X = 53.534mm][Y = 37.311mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (52.375mm,37.25mm)(53.543mm,37.25mm) on Top Layer Location : [X = 53.5mm][Y = 37.25mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (52.883mm,33.375mm)(54.175mm,33.375mm) on Top Layer Location : [X = 52.854mm][Y = 33.375mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (52.883mm,33.375mm)(52.883mm,33.375mm) on Top Layer Location : [X = 52.854mm][Y = 33.375mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (51.6mm,33.375mm)(52.883mm,33.375mm) on Top Layer Location : [X = 52.762mm][Y = 33.375mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (55.55mm,40.575mm)(55.925mm,40.2mm) on Top Layer Location : [X = 55.448mm][Y = 40.572mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (10 hole(s)) Top Layer And Track (53.9mm,40.575mm)(55.55mm,40.575mm) on Top Layer Location : [X = 55.269mm][Y = 40.575mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (80.919mm,49.85mm)(83.175mm,49.85mm) on Top Layer Location : [X = 81.497mm][Y = 49.85mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (80.569mm,50.2mm)(80.919mm,49.85mm) on Top Layer Location : [X = 80.744mm][Y = 50.025mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (78.325mm,50.2mm)(80.569mm,50.2mm) on Top Layer Location : [X = 79.997mm][Y = 50.2mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (75.971mm,50.2mm)(78.325mm,50.2mm) on Top Layer Location : [X = 76.598mm][Y = 50.2mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (75.946mm,50.225mm)(75.971mm,50.2mm) on Top Layer Location : [X = 75.958mm][Y = 50.212mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (73.619mm,50.225mm)(75.946mm,50.225mm) on Top Layer Location : [X = 75.332mm][Y = 50.225mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (76.377mm,44mm)(79.125mm,44mm) on Top Layer Location : [X = 77.201mm][Y = 44mm]
+   Violation between Short-Circuit Constraint: Between Polygon Region (22 hole(s)) Top Layer And Track (76.327mm,44.05mm)(76.377mm,44mm) on Top Layer Location : [X = 76.352mm][Y = 44.025mm]
+Rule Violations :117
+
+Processing Rule : Clearance Constraint (Gap=0.52mm) (InPolygon),(All)
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (56.921mm,35.56mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.412mm < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (69.952mm,44.907mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (52.451mm,45.085mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.248mm < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (47.572mm,46.231mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.203mm < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (83.922mm,38.557mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.213mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (74.473mm,88.341mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.04mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (38.173mm,81.709mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.121mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (41.69mm,81.771mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (37.084mm,83.82mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (36.708mm,80.747mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.148mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (47.07mm,74.676mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Via (48.819mm,40.575mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.357mm < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (48.819mm,40.575mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (40.437mm,35.433mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Via (70.841mm,50.241mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.48mm < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (70.841mm,50.241mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.103mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Via (88.8mm,45.669mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (88.8mm,45.669mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (50.952mm,88.595mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (43.104mm,84.48mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.301mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (44.072mm,90.322mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (48.463mm,81.102mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.425mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (43.873mm,92.05mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (106.756mm,87.3mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (46.507mm,83.871mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (87.249mm,68.885mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (96.164mm,70.307mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.301mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (101.879mm,83.464mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.141mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (114.303mm,80.775mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.243mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (89.798mm,72.466mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.436mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (49.124mm,68.047mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (53.238mm,70.942mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (48.086mm,79.118mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.471mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (48.539mm,83.261mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.139mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (84.44mm,79.019mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (52.629mm,74.143mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.123mm < 0.52mm) Between Polygon Region (31 hole(s)) Bottom Layer And Via (55.318mm,78.715mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Via (71.552mm,43.426mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (71.552mm,43.426mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (41.402mm,33.172mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (42.494mm,34.519mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Via (68.72mm,42.862mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (68.72mm,42.862mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (42.012mm,36.22mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Via (65.608mm,45.06mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.26mm < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (65.608mm,45.06mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (0.233mm < 0.52mm) Between Polygon Region (8 hole(s)) Bottom Layer And Via (50.19mm,47.219mm) from Top Layer to Bottom Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (52.375mm,37.25mm)(52.375mm,44.229mm) on Top Layer 
+   Violation between Clearance Constraint: (0.022mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (90.424mm,46.761mm)(98.8mm,46.761mm) on Top Layer 
+   Violation between Clearance Constraint: (0.478mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (50.314mm,37.25mm)(52.375mm,37.25mm) on Top Layer 
+   Violation between Clearance Constraint: (0.478mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (50.089mm,37.025mm)(50.314mm,37.25mm) on Top Layer 
+   Violation between Clearance Constraint: (0.043mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (48.075mm,37.025mm)(50.089mm,37.025mm) on Top Layer 
+   Violation between Clearance Constraint: (0.307mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (45.85mm,39.75mm)(45.85mm,40.447mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (45.85mm,40.447mm)(47.938mm,42.535mm) on Top Layer 
+   Violation between Clearance Constraint: (0.071mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (47.938mm,42.535mm)(50.637mm,42.535mm) on Top Layer 
+   Violation between Clearance Constraint: (0.279mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (50.637mm,42.535mm)(51.453mm,43.35mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (44.85mm,41.548mm)(46.787mm,43.485mm) on Top Layer 
+   Violation between Clearance Constraint: (0.4mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (49.858mm,43.022mm)(50.999mm,44.163mm) on Top Layer 
+   Violation between Clearance Constraint: (0.494mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (47.122mm,43.022mm)(49.858mm,43.022mm) on Top Layer 
+   Violation between Clearance Constraint: (0.302mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (45.35mm,41.25mm)(47.122mm,43.022mm) on Top Layer 
+   Violation between Clearance Constraint: (0.395mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (45.35mm,39.75mm)(45.35mm,41.25mm) on Top Layer 
+   Violation between Clearance Constraint: (0.195mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (48.1mm,36.025mm)(48.768mm,36.025mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (48.768mm,36.025mm)(50.99mm,33.803mm) on Top Layer 
+   Violation between Clearance Constraint: (0.365mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (50.99mm,33.803mm)(51.6mm,33.375mm) on Top Layer 
+   Violation between Clearance Constraint: (0.358mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (48.075mm,37.525mm)(48.514mm,37.525mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (48.514mm,37.525mm)(48.819mm,37.83mm) on Top Layer 
+   Violation between Clearance Constraint: (0.178mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (48.819mm,37.83mm)(48.819mm,40.575mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (46.35mm,34.29mm)(46.35mm,35.3mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (46.045mm,33.985mm)(46.35mm,34.29mm) on Top Layer 
+   Violation between Clearance Constraint: (0.183mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (44.047mm,33.985mm)(46.045mm,33.985mm) on Top Layer 
+   Violation between Clearance Constraint: (0.124mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (70.841mm,50.241mm)(70.857mm,50.225mm) on Top Layer 
+   Violation between Clearance Constraint: (0.124mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (70.857mm,50.225mm)(73.619mm,50.225mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (88.8mm,44.5mm)(88.8mm,45.669mm) on Top Layer 
+   Violation between Clearance Constraint: (0.276mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (68.72mm,42.862mm)(68.732mm,42.875mm) on Top Layer 
+   Violation between Clearance Constraint: (0.294mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (68.075mm,43.507mm)(68.72mm,42.862mm) on Top Layer 
+   Violation between Clearance Constraint: (0.484mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (72.176mm,44.05mm)(73.6mm,44.05mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (71.552mm,43.426mm)(72.176mm,44.05mm) on Top Layer 
+   Violation between Clearance Constraint: (0.125mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (44.117mm,34.696mm)(45.85mm,34.696mm) on Top Layer 
+   Violation between Clearance Constraint: (0.125mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (45.85mm,34.696mm)(45.85mm,35.3mm) on Top Layer 
+   Violation between Clearance Constraint: (0.451mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (68.075mm,43.507mm)(68.075mm,44.05mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (65.608mm,45.06mm)(65.608mm,49.793mm) on Top Layer 
+   Violation between Clearance Constraint: (0.309mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (65.608mm,49.793mm)(66.04mm,50.225mm) on Top Layer 
+   Violation between Clearance Constraint: (0.258mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (66.04mm,50.225mm)(66.625mm,50.225mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (69.083mm,41.559mm)(70.053mm,40.589mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (67.352mm,41.559mm)(69.083mm,41.559mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (63.556mm,45.355mm)(67.352mm,41.559mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (54.143mm,45.355mm)(63.556mm,45.355mm) on Top Layer 
+   Violation between Clearance Constraint: (0.026mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (52.913mm,40.127mm)(52.913mm,44.124mm) on Top Layer 
+   Violation between Clearance Constraint: (0.331mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (52.913mm,40.127mm)(53.543mm,39.497mm) on Top Layer 
+   Violation between Clearance Constraint: (0.116mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (53.543mm,39.497mm)(56.729mm,39.497mm) on Top Layer 
+   Violation between Clearance Constraint: (0.066mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (66.625mm,50.225mm)(67.402mm,50.225mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (67.402mm,50.225mm)(69.774mm,47.854mm) on Top Layer 
+   Violation between Clearance Constraint: (0.19mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (69.774mm,47.854mm)(79.756mm,47.854mm) on Top Layer 
+   Violation between Clearance Constraint: (0.247mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (79.756mm,47.854mm)(81.051mm,49.149mm) on Top Layer 
+   Violation between Clearance Constraint: (0.317mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (81.051mm,49.149mm)(86.919mm,49.149mm) on Top Layer 
+   Violation between Clearance Constraint: (0.353mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (86.919mm,49.149mm)(87.3mm,49.53mm) on Top Layer 
+   Violation between Clearance Constraint: (0.423mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (87.3mm,49.53mm)(87.3mm,50.15mm) on Top Layer 
+   Violation between Clearance Constraint: (0.496mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (46.525mm,33.2mm)(46.525mm,33.672mm) on Top Layer 
+   Violation between Clearance Constraint: (0.171mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (46.525mm,33.672mm)(46.85mm,33.997mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (46.85mm,33.997mm)(46.85mm,35.275mm) on Top Layer 
+   Violation between Clearance Constraint: (0.414mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (44.35mm,41.738mm)(46.375mm,43.763mm) on Top Layer 
+   Violation between Clearance Constraint: (0.099mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (45.075mm,30.074mm)(63.163mm,30.074mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (88.8mm,48.385mm)(88.8mm,50.15mm) on Top Layer 
+   Violation between Clearance Constraint: (0.022mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (88.8mm,48.385mm)(90.424mm,46.761mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (87.3mm,44.5mm)(87.3mm,45.542mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (87.3mm,45.542mm)(88.113mm,46.355mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (88.113mm,46.355mm)(88.113mm,50.8mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (88.113mm,50.8mm)(88.671mm,51.359mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (88.671mm,51.359mm)(96.49mm,51.359mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (96.49mm,51.359mm)(100.3mm,47.549mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (84.226mm,40.411mm)(85.928mm,42.113mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (85.928mm,42.113mm)(88.392mm,42.113mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (88.392mm,42.113mm)(89.738mm,40.767mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (83.175mm,45.538mm)(83.175mm,48.35mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (83.175mm,42.621mm)(83.175mm,44.038mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (83.175mm,42.621mm)(83.175mm,42.621mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (83.175mm,41.225mm)(83.175mm,42.621mm) on Top Layer 
+   Violation between Clearance Constraint: (0.06mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (53.668mm,37.375mm)(54.875mm,37.375mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (53.543mm,37.25mm)(53.668mm,37.375mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (52.375mm,37.25mm)(53.543mm,37.25mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (52.883mm,33.375mm)(54.175mm,33.375mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (52.883mm,33.375mm)(52.883mm,33.375mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (51.6mm,33.375mm)(52.883mm,33.375mm) on Top Layer 
+   Violation between Clearance Constraint: (0.516mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (55.925mm,40.2mm)(57.575mm,40.2mm) on Top Layer 
+   Violation between Clearance Constraint: (0.516mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (55.55mm,40.575mm)(55.925mm,40.2mm) on Top Layer 
+   Violation between Clearance Constraint: (0.463mm < 0.52mm) Between Polygon Region (10 hole(s)) Top Layer And Track (53.9mm,40.575mm)(55.55mm,40.575mm) on Top Layer 
+   Violation between Clearance Constraint: (0.419mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (80.919mm,49.85mm)(83.175mm,49.85mm) on Top Layer 
+   Violation between Clearance Constraint: (0.419mm < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (80.569mm,50.2mm)(80.919mm,49.85mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (78.325mm,50.2mm)(80.569mm,50.2mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (75.971mm,50.2mm)(78.325mm,50.2mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (75.946mm,50.225mm)(75.971mm,50.2mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (73.619mm,50.225mm)(75.946mm,50.225mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (76.377mm,44mm)(79.125mm,44mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.52mm) Between Polygon Region (22 hole(s)) Top Layer And Track (76.327mm,44.05mm)(76.377mm,44mm) on Top Layer 
+Rule Violations :134
+
+
+Violations Detected : 500
+Time Elapsed        : 00:00:02

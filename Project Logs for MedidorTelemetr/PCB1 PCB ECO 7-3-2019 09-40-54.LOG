@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=NetR4_2 Pin=R5-2
+Removed Pin From Net: NetName=NetR4_2 Pin=R6-2
+Removed Pin From Net: NetName=NetR4_2 Pin=R7-2
+Removed Pin From Net: NetName=NetR4_2 Pin=R9-2
+Added Component: Designator=D2(SMB)
+Added Pin To Net: NetName=NetC3_2 Pin=C10-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=NetC3_2 Pin=R3-2
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=NetC3_2 Pin=U4-7
+Added Pin To Net: NetName=NetC3_2 Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-16
+Added Pin To Net: NetName=NetC3_2 Pin=U4-17
+Change Net Name : Old Net Name=NetC3_2 New Net Name=V3V3
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=U4-18
+Added Pin To Net: NetName=NetD2_1 Pin=U4-25
+Added Pin To Net: NetName=NetD2_1 Pin=U4-27
+Added Pin To Net: NetName=NetD2_1 Pin=U4-28
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Net: Name=NetR9_2
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component D2 D Schottky

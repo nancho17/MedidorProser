@@ -1,0 +1,4 @@
+Added Component: Designator=K5(MODULE5B)
+Added Component: Designator=K?(MODULE4)
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K5 Relay
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K? Relay-SPST

@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetC15_2 Pin=C13-2
+Removed Pin From Net: NetName=NetC18_1 Pin=C14-1
+Removed Pin From Net: NetName=NetC20_2 Pin=C16-2
+Removed Pin From Net: NetName=NetR8_2 Pin=R5-2
+Removed Pin From Net: NetName=NetR9_2 Pin=R6-2
+Removed Pin From Net: NetName=NetR12_2 Pin=R7-2
+Removed Pin From Net: NetName=NetC20_2 Pin=R10-1
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=U? NewDesignator=U5
+Added Component: Designator=C15(1608[0603])
+Added Component: Designator=C18(1608[0603])
+Added Component: Designator=C20(1608[0603])
+Added Component: Designator=R8(J1-0603)
+Added Component: Designator=R9(J1-0603)
+Added Component: Designator=R12(J1-0603)
+Added Component: Designator=R15(J1-0603)
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=M_GND Pin=C14-1
+Added Pin To Net: NetName=M_GND Pin=C13-1
+Added Pin To Net: NetName=NetC15_2 Pin=C13-2
+Added Pin To Net: NetName=M_GND Pin=C16-2
+Added Pin To Net: NetName=NetC18_1 Pin=C14-1
+Added Pin To Net: NetName=M_GND Pin=C14-2
+Added Pin To Net: NetName=M_GND Pin=C16-1
+Added Pin To Net: NetName=NetC20_2 Pin=C16-2
+Added Pin To Net: NetName=M_V3V3 Pin=R5-2
+Added Pin To Net: NetName=M_V3V3 Pin=R6-2
+Added Pin To Net: NetName=M_V3V3 Pin=R7-2
+Added Pin To Net: NetName=NetC12_1 Pin=R5-1
+Added Pin To Net: NetName=NetR8_2 Pin=R5-2
+Added Pin To Net: NetName=NetC15_2 Pin=R6-1
+Added Pin To Net: NetName=NetR9_2 Pin=R6-2
+Added Pin To Net: NetName=NetD2_1 Pin=R10-1
+Added Pin To Net: NetName=NetC18_1 Pin=R7-1
+Added Pin To Net: NetName=NetR12_2 Pin=R7-2
+Added Pin To Net: NetName=NetC20_2 Pin=R10-1
+Added Pin To Net: NetName=M_GND Pin=R10-2
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetU?_3 New Net Name=NetU5_3

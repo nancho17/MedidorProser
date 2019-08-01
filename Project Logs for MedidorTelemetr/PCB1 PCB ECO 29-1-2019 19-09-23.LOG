@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=G_FIELD Pin=U2-62
+Change Net Name : Old Net Name=G_FIELD New Net Name=SIGNAL_GND

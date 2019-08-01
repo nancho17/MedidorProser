@@ -1,0 +1,7 @@
+Added Component: Designator=D67(D-46_6A)
+Added Pin To Net: NetName=GND Pin=D67-1
+Added Pin To Net: NetName=GND Pin=D67-2
+Added Pin To Net: NetName=NetD67_3 Pin=D67-3
+Added Pin To Net: NetName=NetD67_3 Pin=D67-4
+Added Net: Name=NetD67_3
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component D67 Bridge2

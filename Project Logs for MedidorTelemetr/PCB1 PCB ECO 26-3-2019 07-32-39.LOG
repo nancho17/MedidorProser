@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=RESETT Pin=K6-2
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=K6
+Added Component: Designator=K5(MODULE5B)
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component K5 Relay

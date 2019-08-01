@@ -1,0 +1,4 @@
+Added Component: Designator=C26(C1206)
+Added Pin To Net: NetName=DCIN1 Pin=C26-1
+Added Pin To Net: NetName=CS Pin=C26-2
+Added Member To Class: ClassName=Alimentacion Member=Component C26 Cap Semi

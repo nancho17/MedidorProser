@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=GND_MICRO Pin=P2-1
+Removed Pin From Net: NetName=BSL_TX Pin=P6-12
+Removed Pin From Net: NetName=BSL_RX Pin=P6-14
+Removed Pin From Net: NetName=V3V3 Pin=Q3-1
+Removed Pin From Net: NetName=NetP2_3 Pin=Rel1-2
+Removed Pin From Net: NetName=GND_MICRO Pin=Rel1-3
+Removed Pin From Net: NetName=NetP2_4 Pin=Rel1-4
+Change Component DesignItemId : Designator=Rel1 Old DesignItemId=Rele_1 New DesignItemId=Rele_2
+Change Component Footprint: Designator=Rel1 Old Footprint=ReleSRD New Footprint=Rele_Fujtsu
+Change Component Comment : Designator=D1 Old Comment=D Schottky New Comment=10MQ06n
+Change Component Comment : Designator=U1 Old Comment=LM2574N-5 New Comment=LM2574
+Change Component Comment : Designator=Q4 Old Comment=NPN 2N4922 New Comment=TIP31C
+Change Component Comment : Designator=Rel1 Old Comment=SRD-03-VDC New Comment=Fujitsu Rele
+Added Component: Designator=C24(1608[0603])
+Added Component: Designator=C25(C0805)
+Added Component: Designator=C26(1608[0603])
+Added Component: Designator=C27(C0805)
+Added Component: Designator=D2(D-38)
+Added Component: Designator=D3(DIODE-0.7)
+Added Component: Designator=D?(SMC)
+Added Component: Designator=F1(PIN-W2/E2.8)
+Added Pin To Net: NetName=GND_MICRO Pin=C24-1
+Added Pin To Net: NetName=V5 Pin=C24-2
+Added Pin To Net: NetName=V5 Pin=C25-1
+Added Pin To Net: NetName=GND_MICRO Pin=C25-2
+Added Pin To Net: NetName=SCLK Pin=C26-1
+Added Pin To Net: NetName=3VINDEPENDNT Pin=C26-2
+Added Pin To Net: NetName=3VINDEPENDNT Pin=C27-1
+Added Pin To Net: NetName=SCLK Pin=C27-2
+Added Pin To Net: NetName=GND_MICRO Pin=D2-3
+Added Pin To Net: NetName=GND_MICRO Pin=D3-1
+Added Pin To Net: NetName=SAL3 Pin=D?-1
+Added Pin To Net: NetName=SAL4 Pin=D?-2
+Added Pin To Net: NetName=GND_MICRO Pin=P6-9
+Added Pin To Net: NetName=GND_MICRO Pin=Q3-3
+Added Pin To Net: NetName=V5 Pin=Rel1-1
+Added Pin To Net: NetName=NetP2_3 Pin=Rel1-4
+Added Pin To Net: NetName=V3V3 Pin=U3-10
+Added Pin To Net: NetName=GND_MICRO Pin=U3-11
+Added Pin To Net: NetName=GND_MICRO Pin=U3-62
+Added Pin To Net: NetName=V3V3 Pin=U5-1
+Change Net Name : Old Net Name=GND_MICRO New Net Name=AVSS
+Change Net Name : Old Net Name=V3V3 New Net Name=REF
+Added Pin To Net: NetName=AC_N_MEDIDOR Pin=D2-2
+Added Pin To Net: NetName=AC_N_MEDIDOR Pin=P2-1
+Added Net: Name=AC_N_MEDIDOR
+Added Pin To Net: NetName=AC_P_MEDIDOR Pin=F1-1
+Added Pin To Net: NetName=AC_P_MEDIDOR Pin=P2-2
+Added Net: Name=AC_P_MEDIDOR
+Added Pin To Net: NetName=NetD2_4 Pin=D2-4
+Added Pin To Net: NetName=NetD2_4 Pin=F1-2
+Added Net: Name=NetD2_4
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetU3_33 Pin=U3-33
+Added Pin To Net: NetName=NetU3_33 Pin=U5-6
+Added Net: Name=NetU3_33
+Added Pin To Net: NetName=VCCIN Pin=C1-2
+Added Pin To Net: NetName=VCCIN Pin=D2-1
+Added Pin To Net: NetName=VCCIN Pin=D3-2
+Added Pin To Net: NetName=VCCIN Pin=U1-10
+Added Net: Name=VCCIN
+Added Member To Class: ClassName=Alimentacion Member=Component C24 Cap
+Added Member To Class: ClassName=Alimentacion Member=Component C25 Cap Pol3
+Added Member To Class: ClassName=Alimentacion Member=Component C26 Cap
+Added Member To Class: ClassName=Alimentacion Member=Component C27 Cap Pol3
+Added Member To Class: ClassName=Alimentacion Member=Component D2 Bridge1
+Added Member To Class: ClassName=Alimentacion Member=Component D3 BZT52C30-F
+Added Member To Class: ClassName=comms Member=Component D? SMA6F18A
+Added Member To Class: ClassName=Alimentacion Member=Component F1 Fuse

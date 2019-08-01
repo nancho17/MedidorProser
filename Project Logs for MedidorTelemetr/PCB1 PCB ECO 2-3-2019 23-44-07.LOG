@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=GND Pin=U4-16
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(6-0805_N)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R7(AXIAL-0.3)
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R7-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=U4-15
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U4-3
+Added Pin To Net: NetName=NetR3_2 Pin=U4-17
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U4-20
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U4-13
+Added Pin To Net: NetName=NetR5_2 Pin=U4-19
+Added Pin To Net: NetName=NetR5_2 Pin=U4-22
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U4-16
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=U4-4
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R3 Res1
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R4 Res1
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R5 Res Varistor
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R6 Res1
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component R7 Res1

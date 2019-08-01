@@ -1,0 +1,4 @@
+Added Component: Designator=C3(C1206)
+Added Pin To Net: NetName=MICRO_RTS_1 Pin=C3-1
+Added Pin To Net: NetName=3.3V Pin=C3-2
+Added Member To Class: ClassName=Micro Member=Component C3 Cap Semi

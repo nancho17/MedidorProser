@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=DCIN1 Pin=D2-2
+Removed Pin From Net: NetName=DCIN1 Pin=D3-2
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=D2
+Removed Member From Class: ClassName=CircuitoMedidorADE Member=D3

@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=DCIN1 Pin=C23-1
+Removed Pin From Net: NetName=DCIN2 Pin=C23-2
+Removed Pin From Net: NetName=DCIN1 Pin=C24-1
+Removed Pin From Net: NetName=DCIN1 Pin=C25-1
+Removed Pin From Net: NetName=3VINDEPENDNT Pin=C25-2
+Removed Pin From Net: NetName=DCIN1 Pin=D4-1
+Removed Pin From Net: NetName=DCIN1 Pin=P1-3
+Removed Pin From Net: NetName=DCIN1 Pin=U7-4
+Removed Pin From Net: NetName=DCIN1 Pin=U7-5
+Removed Pin From Net: NetName=DCIN1 Pin=U7-6
+Removed Pin From Net: NetName=DCIN2 Pin=U7-10
+Removed Pin From Net: NetName=DCIN1 Pin=U8-1
+Removed Pin From Net: NetName=3VINDEPENDNT Pin=U8-2
+Removed Member From Class: ClassName=Alimentacion Member=C23
+Removed Member From Class: ClassName=Alimentacion Member=C24
+Removed Member From Class: ClassName=Alimentacion Member=C25
+Removed Member From Class: ClassName=Alimentacion Member=D4
+Removed Member From Class: ClassName=Alimentacion Member=L2
+Removed Member From Class: ClassName=Alimentacion Member=U8
+Change Component DesignItemId : Designator=U7 Old DesignItemId=LM2574N-5 New DesignItemId=ADUM5000
+Change Component Footprint: Designator=U9 Old Footprint=NSO8_N New Footprint=SO8_M
+Change Component Comment : Designator=U7 Old Comment=LM2574N-5 New Comment=ADUM5000
+Change Component Description : Designator=U7 Old Description=Easy Switcher 0.5A Step-Down Voltage Regulator New Description=ADI Isolated DC/DC Converter
+Change Component Library : Designator=U7 Old Library=ON Semi Power Mgt Voltage Regulator.IntLib New Library=ADUM5000.IntLib
+Added Pin To Net: NetName=V5 Pin=U7-1
+Added Pin To Net: NetName=GND_MICRO Pin=U7-2
+Added Pin To Net: NetName=GND_MICRO Pin=U7-4
+Added Pin To Net: NetName=V5 Pin=U7-6
+Added Pin To Net: NetName=V5 Pin=U7-7
+Added Pin To Net: NetName=GND_MICRO Pin=U7-8
+Added Pin To Net: NetName=DCIN1 Pin=U7-9
+Added Pin To Net: NetName=3VINDEPENDNT Pin=U7-10
+Added Pin To Net: NetName=DCIN1 Pin=U7-13
+Change Net Name : Old Net Name=DCIN1 New Net Name=SCLK
+Added Pin To Net: NetName=DCIN1 Pin=P1-3
+Added Net: Name=DCIN1

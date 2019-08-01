@@ -1,0 +1,16 @@
+Added Pin To Net: NetName=MICRO_RTS_1 Pin=P5-11
+Added Pin To Net: NetName=MICRO_RTS_1 Pin=R1-2
+Added Pin To Net: NetName=MICRO_RTS_1 Pin=U2-58
+Added Net: Name=MICRO_RTS_1
+Added Pin To Net: NetName=MICRO_TCK_1 Pin=P5-7
+Added Pin To Net: NetName=MICRO_TCK_1 Pin=U2-57
+Added Net: Name=MICRO_TCK_1
+Added Pin To Net: NetName=MICRO_TD0_1 Pin=P5-1
+Added Pin To Net: NetName=MICRO_TD0_1 Pin=U2-54
+Added Net: Name=MICRO_TD0_1
+Added Pin To Net: NetName=MICRO_TDI_1 Pin=P5-3
+Added Pin To Net: NetName=MICRO_TDI_1 Pin=U2-55
+Added Net: Name=MICRO_TDI_1
+Added Pin To Net: NetName=MICRO_TMS_1 Pin=P5-5
+Added Pin To Net: NetName=MICRO_TMS_1 Pin=U2-56
+Added Net: Name=MICRO_TMS_1

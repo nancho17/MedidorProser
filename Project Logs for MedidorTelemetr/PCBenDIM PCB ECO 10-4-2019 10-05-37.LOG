@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=DCIN3 Pin=P2-3
+Removed Pin From Net: NetName=DCIN4 Pin=P2-4
+Removed Pin From Net: NetName=NetP3_1 Pin=Rel1-2
+Removed Pin From Net: NetName=NetP3_2 Pin=Rel1-4
+Added Pin To Net: NetName=DCIN3 Pin=P2-1
+Added Pin To Net: NetName=DCIN4 Pin=P2-2
+Added Pin To Net: NetName=NetP3_2 Pin=R13-1
+Added Pin To Net: NetName=NetP3_1 Pin=R16-1
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=Rel1-2
+Added Net: Name=NetP2_3
+Added Pin To Net: NetName=NetP2_4 Pin=P2-4
+Added Pin To Net: NetName=NetP2_4 Pin=Rel1-4
+Added Net: Name=NetP2_4
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=R10-1
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=R3-1
+Added Net: Name=NetP3_4

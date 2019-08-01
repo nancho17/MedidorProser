@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Jtag Member=P222
+Change Class Name : Old Net Name=Jtag New Net Name=Micro
+Change Room Name: Old Name=Jtag New Name=Micro
+Change Room Scope: Old Scope=InComponentClass('Jtag') New Scope=InComponentClass('Micro')

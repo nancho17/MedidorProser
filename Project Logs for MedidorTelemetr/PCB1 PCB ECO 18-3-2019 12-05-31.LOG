@@ -1,0 +1,5 @@
+Added Component: Designator=LS6(PIN2)
+Added Pin To Net: NetName=NetLS6_1 Pin=LS6-1
+Added Pin To Net: NetName=NetLS6_1 Pin=LS6-2
+Added Net: Name=NetLS6_1
+Added Member To Class: ClassName=CircuitoMedidorADE Member=Component LS6 Bell

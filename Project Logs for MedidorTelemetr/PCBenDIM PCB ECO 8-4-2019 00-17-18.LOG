@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=comms Member=P1
+Added Pin To Net: NetName=NetP1_2 Pin=P1-1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetP1_1
+Added Member To Class: ClassName=comms Member=Component P3 Header 4

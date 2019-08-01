@@ -1,0 +1,8 @@
+Added Component: Designator=P?(HDR1X2)
+Added Pin To Net: NetName=REF Pin=P?-2
+Added Pin To Net: NetName=NEGATIVE_REF Pin=P?-1
+Added Pin To Net: NetName=NEGATIVE_REF Pin=U2-11
+Added Pin To Net: NetName=NEGATIVE_REF Pin=U2-62
+Added Net: Name=NEGATIVE_REF
+Added Member To Class: ClassName=Micro Member=Component C3 Cap Semi
+Added Member To Class: ClassName=Micro Member=Component P? A tensiones
