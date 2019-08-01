@@ -1,0 +1,1 @@
+Archivos de proyecto, equematico y pcb (Altium), para medidor de potencia con telemetria.
