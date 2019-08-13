@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D2 Old Footprint=D-38 New Footprint=SOIC4_M
+Change Component Footprint: Designator=L1 Old Footprint=INDC4532 New Footprint=PE-526XXNL
+Change Component Footprint: Designator=F1 Old Footprint=PIN-W2/E2.8 New Footprint=SMD030F
+Change Component Footprint: Designator=D1 Old Footprint=SMB New Footprint=DO214
+Change Component Footprint: Designator=D3 Old Footprint=SODFL350X110-2N New Footprint=1N4148W
+Change Component Footprint: Designator=D4 Old Footprint=SODFL350X110-2N New Footprint=1N4148W
