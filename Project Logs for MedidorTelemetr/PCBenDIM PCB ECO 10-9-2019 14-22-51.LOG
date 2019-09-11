@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D6 Old Footprint=C0805 New Footprint=AXIAL-0.3
+Change Component Footprint: Designator=D7 Old Footprint=C0805 New Footprint=DO-35
+Added Member To Class: ClassName=Micro Member=Component U3 MSP430F2618
