@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Member From Class: ClassName=LedsYOtros Member=D8
+Removed Member From Class: ClassName=LedsYOtros Member=D9
+Removed Member From Class: ClassName=LedsYOtros Member=R23
+Removed Member From Class: ClassName=LedsYOtros Member=R24
