@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=MICRO_TCK_1 Pin=U4-8
+Added Pin To Net: NetName=M_V3V3 Pin=U4-8
