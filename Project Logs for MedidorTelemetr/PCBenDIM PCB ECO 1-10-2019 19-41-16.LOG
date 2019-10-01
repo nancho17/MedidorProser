@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=NetU4_20 New Net Name=REVP_ADE
+Change Net Name : Old Net Name=NetU4_21 New Net Name=ZX_1_ADE
+Added Pin To Net: NetName=ZX_ADE Pin=U4-1
+Added Net: Name=ZX_ADE
