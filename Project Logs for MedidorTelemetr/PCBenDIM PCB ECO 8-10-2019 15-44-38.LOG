@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=U9 Old Footprint=SSOP20_N New Footprint=SOIC20_N
+Change Component Comment : Designator=U9 Old Comment=MAX3222CAP New Comment=MAX3222CDW
+Added Pin To Net: NetName=BSL_TX Pin=P6-12
+Added Pin To Net: NetName=BSL_RX Pin=P6-14
+Added Member To Class: ClassName=Alimentacion Member=Component P1 Header 4
+Added Member To Class: ClassName=comms Member=Component P3 Header 4
+Added Member To Class: ClassName=ParteAnalogicaMedicion Member=Component P4 Header 4
+Added Member To Class: ClassName=Micro Member=Component P6 Header 7X2
