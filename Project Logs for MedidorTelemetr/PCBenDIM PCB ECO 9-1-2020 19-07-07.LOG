@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=RESETT Pin=U5-14
+Change Net Name : Old Net Name=RESETT New Net Name=ADE_RESET

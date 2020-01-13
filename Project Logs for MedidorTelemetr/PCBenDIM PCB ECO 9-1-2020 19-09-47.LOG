@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=NetC10_1 Pin=R7-1
+Change Net Name : Old Net Name=NetC10_1 New Net Name=ADE_RESET

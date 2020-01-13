@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=IRQAD Pin=R2-1
+Removed Pin From Net: NetName=M_V3V3 Pin=R2-2
+Added Pin To Net: NetName=M_V3V3 Pin=R2-1
+Added Pin To Net: NetName=IRQAD Pin=R2-2
