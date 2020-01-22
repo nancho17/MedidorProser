@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for MedidorTelemetr
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -382,7 +382,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for MedidorTelemetr
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
