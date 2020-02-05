@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=REF Pin=U10-2
+Removed Pin From Net: NetName=GND A Pin=U10-2
+Added Pin To Net: NetName=REF Pin=U10-1
