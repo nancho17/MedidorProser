@@ -1,10 +1,10 @@
-Output: Verilog File
-Type  : Verilog
+Output: Bill of Materials
+Type  : BOM
 From  : Project [MedidorTelemetr.PrjPcb]
-   Generated File[comms.V]
+   Generated File[Bill of Materials-MedidorTelemetr.xls]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 20:15:32 On 25/6/2019
+Finished Output Generation At 12:53:43 p. m. On 01/03/2020
