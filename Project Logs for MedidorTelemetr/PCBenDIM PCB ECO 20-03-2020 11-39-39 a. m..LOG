@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=Relay y salida analógica Member=D4
+Removed Member From Class: ClassName=Relay y salida analógica Member=D5
+Removed Member From Class: ClassName=Relay y salida analógica Member=R15
+Removed Member From Class: ClassName=comms Member=R22
+Removed Member From Class: ClassName=comms Member=U11
+Added Member To Class: ClassName=Relay y salida analógica Member=Component D6 ss14
+Added Member To Class: ClassName=Relay y salida analógica Member=Component D7 BZT52C30-F
+Added Member To Class: ClassName=comms Member=Component R18 Res3
+Added Member To Class: ClassName=Relay y salida analógica Member=Component R21 Res3
+Added Member To Class: ClassName=comms Member=Component U6 SN74LS04D

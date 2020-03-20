@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=V5 Pin=C24-2
+Removed Pin From Net: NetName=V5 Pin=C25-1
+Removed Pin From Net: NetName=V5 Pin=U7-1
+Removed Pin From Net: NetName=V5 Pin=U7-6
+Removed Pin From Net: NetName=V5 Pin=U7-7
+Removed Pin From Net: NetName=M_GND Pin=U7-13
+Removed Member From Class: ClassName=comms Member=C21
+Removed Member From Class: ClassName=comms Member=C22
+Removed Member From Class: ClassName=comms Member=C35
+Removed Member From Class: ClassName=comms Member=Q3
+Removed Member From Class: ClassName=comms Member=Q4
+Removed Member From Class: ClassName=comms Member=Rel1
+Removed Member From Class: ClassName=comms Member=U12
+Change Component Designator: OldDesignator=D4 NewDesignator=D7
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D4
+Change Component Designator: OldDesignator=D7 NewDesignator=D5
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3
+Change Component Designator: OldDesignator=R15 NewDesignator=R21
+Change Component Designator: OldDesignator=R18 NewDesignator=R22
+Change Component Designator: OldDesignator=R21 NewDesignator=R15
+Change Component Designator: OldDesignator=R22 NewDesignator=R18
+Change Component Designator: OldDesignator=U6 NewDesignator=U11
+Change Component Designator: OldDesignator=U11 NewDesignator=U6
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ4_1
+Change Net Name : Old Net Name=NetQ3_3 New Net Name=NetQ4_3
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ3_1
+Change Net Name : Old Net Name=NetQ4_3 New Net Name=NetQ3_3
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR18_2
+Added Pin To Net: NetName=NetC24_2 Pin=C24-2
+Added Pin To Net: NetName=NetC24_2 Pin=C25-1
+Added Pin To Net: NetName=NetC24_2 Pin=U7-1
+Added Pin To Net: NetName=NetC24_2 Pin=U7-6
+Added Pin To Net: NetName=NetC24_2 Pin=U7-7
+Added Net: Name=NetC24_2
+Change Class Name : Old Net Name=LedsYOtros New Net Name=Relay y salida analógica
+Added Member To Class: ClassName=Relay y salida analógica Member=Component C21 Cap Semi
+Added Member To Class: ClassName=Relay y salida analógica Member=Component C22 Cap Semi
+Added Member To Class: ClassName=Relay y salida analógica Member=Component C35 Cap Semi
+Added Member To Class: ClassName=Relay y salida analógica Member=Component Q3 TIP31C
+Added Member To Class: ClassName=Relay y salida analógica Member=Component Q4 BCV27
+Added Member To Class: ClassName=Relay y salida analógica Member=Component Rel1 Fujitsu Rele
+Added Member To Class: ClassName=Relay y salida analógica Member=Component U12 LPV321M5
+Added Room: Name=Relay y salida analógica
