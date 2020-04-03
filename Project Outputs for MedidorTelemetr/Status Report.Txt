@@ -1,10 +1,21 @@
-Output: Bill of Materials
-Type  : BOM
-From  : Project [MedidorTelemetr.PrjPcb]
-   Generated File[Bill of Materials-MedidorTelemetr.xls]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [MedidorTelemetr.PrjPcb]
+   Generated File[PCBenDIM.GTL]
+   Generated File[PCBenDIM.GBL]
+   Generated File[PCBenDIM.GTO]
+   Generated File[PCBenDIM.GTP]
+   Generated File[PCBenDIM.GTS]
+   Generated File[PCBenDIM.GBS]
+   Generated File[PCBenDIM.GBP]
+   Generated File[PCBenDIM.GBO]
+   Generated File[PCBenDIM.GKO]
+   Generated File[PCBenDIM.RUL]
+   Generated File[PCBenDIM.EXTREP]
+   Generated File[PCBenDIM.REP]
 
 
-Files Generated   : 1
+Files Generated   : 12
 Documents Printed : 0
 
-Finished Output Generation At 12:53:43 p. m. On 01/03/2020
+Finished Output Generation At 04:24:06 a. m. On 25/03/2020
